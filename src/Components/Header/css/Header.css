@@ -1,0 +1,169 @@
+header {
+  height: 153px;
+  width: auto;
+  left: -683px;
+  top: -77px;
+  border-radius: 10px;
+}
+
+header .HeaderUp nav {
+  display: flex;
+  justify-content: space-between;
+  width: auto;
+}
+
+header .HeaderUp nav ul {
+  display: flex;
+  padding: 0;
+}
+
+header .HeaderUp nav ul li {
+  list-style-type: none;
+  margin: 20px 15px 0px 15px;
+  font-family: Montserrat;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #393939;
+}
+
+header .HeaderUp nav ul li p {
+  display: inline;
+  color: #393939;
+}
+
+header .HeaderDown {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 15px;
+}
+
+header .HeaderDown .d3 {
+  margin: auto;
+}
+
+header .HeaderDown .d3 input, header .HeaderDown .d3 button {
+  border: none;
+  outline: none;
+  background: transparent;
+}
+
+header .HeaderDown .d3 .Search {
+  height: 44px;
+  width: 622px;
+  border-radius: 0px;
+  border: none;
+  border: 1px solid #E0E0E0;
+  padding-left: 15px;
+}
+
+header .HeaderDown .d3 button {
+  height: 42px;
+  width: 42px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+}
+
+header .HeaderDown .d3 button:before {
+  content: "\f002";
+  font-family: FontAwesome;
+  font-size: 16px;
+  color: #F9F0DD;
+}
+
+header .HeaderDown .liked {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
+header .HeaderDown .liked p {
+  margin-bottom: 2px;
+  margin-left: 10px;
+  align-content: center;
+}
+
+header .HeaderDown .liked img {
+  width: 20px;
+  height: 20px;
+}
+
+header .HeaderDown .basket {
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+}
+
+header .HeaderDown .basket p {
+  margin-bottom: 2px;
+  align-content: center;
+  margin-left: 10px;
+}
+
+header .HeaderDown .basket img {
+  width: 20px;
+  height: 20px;
+}
+
+@media (max-width: 375px) {
+  header {
+    height: 64px;
+    width: auto;
+    left: -683px;
+    top: -77px;
+    border-radius: 10px;
+  }
+  header .HeaderUp {
+    display: none;
+  }
+  header .HeaderDown {
+    display: block;
+  }
+  header .HeaderDown .logo {
+    width: 100px;
+    height: 43px;
+    display: block;
+    margin: 10.5px auto;
+  }
+  header .HeaderDown .Search {
+    height: 44px;
+    width: 622px;
+    margin: auto;
+    border-radius: 0px;
+    border: none;
+    border: 1px solid #E0E0E0;
+    padding: 11px;
+  }
+  header .HeaderDown .liked {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+  }
+  header .HeaderDown .liked p {
+    margin-bottom: 2px;
+    margin-left: 10px;
+    align-content: center;
+  }
+  header .HeaderDown .liked img {
+    width: 20px;
+    height: 20px;
+  }
+  header .HeaderDown .basket {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+  }
+  header .HeaderDown .basket p {
+    margin-bottom: 2px;
+    align-content: center;
+    margin-left: 10px;
+  }
+  header .HeaderDown .basket img {
+    width: 20px;
+    height: 20px;
+  }
+}

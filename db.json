@@ -1,0 +1,32 @@
+{ 
+  "footer": {
+    "contact":[
+    {  
+      "value":"+996 500 123 456",
+      "icon":"number"
+    },
+    { 
+      "value":"+996 500 123 456",
+      "icon":"number"
+    }, 
+    { 
+      "value":"mail@gmail.com",
+      "icon":"mail"
+    }
+    ],
+    "messenger":[
+      {
+        "value":"instagram",
+        "icon":"instagram"
+      },
+      {
+        "value":"telegram",
+        "icon":"telegram"
+      },
+      {
+        "value":"whatsapp",
+        "icon":"whatsapp"
+      }
+    ]
+  }
+}
