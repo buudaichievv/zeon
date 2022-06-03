@@ -1,32 +1,448 @@
 { 
+  "slider":[
+   {"img":"https://i.postimg.cc/CKdpkcpK/carousel.jpg"},
+   {"img":"https://i.postimg.cc/CKdpkcpK/carousel.jpg"},
+   {"img":"https://i.postimg.cc/CKdpkcpK/carousel.jpg"}
+  ],
   "footer": {
-    "contact":[
-    {  
-      "value":"+996 500 123 456",
-      "icon":"number"
-    },
-    { 
-      "value":"+996 500 123 456",
-      "icon":"number"
-    }, 
-    { 
-      "value":"mail@gmail.com",
-      "icon":"mail"
-    }
-    ],
-    "messenger":[
-      {
-        "value":"instagram",
-        "icon":"instagram"
-      },
-      {
-        "value":"telegram",
-        "icon":"telegram"
-      },
-      {
-        "value":"whatsapp",
-        "icon":"whatsapp"
+    "contact":{
+      "number":"+996 500 123 456",
+      "email":"mail@gmail.com"
+  },
+    "messenger":{
+        "instagram":"instagram",
+        "telegram":"telegram",  
+        "whatsapp":"whatsapp"
       }
-    ]
+  },
+  "hit":[
+      {
+        "id":1,
+        "img":"https://i.postimg.cc/NM5wkZWW/Hit.jpg",
+        "title":"Вечернее платье",
+        "price": 1200,
+        "size":"42-52",
+        "like": false,
+        "colors":[
+          "#FF0000",
+          "#141414",
+          "#FFFFFF",
+          "#6977F0",
+          "#AB844A",
+          "#B5A8A1",
+          "#84CC4C",
+          "#73A39D"
+        ],
+        "discount":20,
+        "count":1,
+        "atticle":"lorem",
+        "discriiption":"За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+        "amount":5,
+        "materual":"Полиестр",
+        "strmaterial":"Полиестр"
+      },
+      {
+        "id":2,
+        "img":"https://i.postimg.cc/jqBRZdqv/Hit-1.jpg",
+        "title":"Вечернее платье",
+        "price": 1350,
+        "size":"42-52",
+        "like": false,
+        "colors":[
+          "#FF0000",
+          "#141414",
+          "#FFFFFF",
+          "#6977F0",
+          "#AB844A",
+          "#B5A8A1",
+          "#84CC4C",
+          "#73A39D"
+        ],
+        "discount":20,
+        "count":1,
+        "atticle":"lorem",
+        "discriiption":"За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+        "amount":5,
+        "materual":"Полиестр",
+        "strmaterial":"Полиестр"
+      },
+      {
+        "id":3,
+        "img":"https://i.postimg.cc/rphkWqY1/Hit-2.jpg",
+        "title":"Вечернее платье",
+        "price": 1350,
+        "size":"42-52",
+        "like": false,
+        "colors":[
+          "#FF0000",
+          "#141414",
+          "#FFFFFF",
+          "#6977F0",
+          "#AB844A",
+          "#B5A8A1",
+          "#84CC4C",
+          "#73A39D"
+        ],
+        "discount":20,
+        "count":1,
+        "atticle":"lorem",
+        "discriiption":"За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+        "amount":5,
+        "materual":"Полиестр",
+        "strmaterial":"Полиестр"
+      },
+      {
+        "id":4,
+        "img":"https://i.postimg.cc/GhYdNwHR/Hit-3.jpg",
+        "title":"Вечернее платье",
+        "price": 1350,
+        "size":"42-52",
+        "like": false,
+        "colors":[
+          "#FF0000",
+          "#141414",
+          "#FFFFFF",
+          "#6977F0",
+          "#AB844A",
+          "#B5A8A1",
+          "#84CC4C",
+          "#73A39D"
+        ],
+        "discount":20,
+        "count":1,
+        "atticle":"lorem",
+        "discriiption":"За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+        "amount":5,
+        "materual":"Полиестр",
+        "strmaterial":"Полиестр"
+      },
+      {
+        "id":5,
+        "img":"https://i.postimg.cc/13Qs1Cqq/HIt-5.jpg",
+        "title":"Вечернее платье",
+        "price": 1350,
+        "size":"42-52",
+        "like": false,
+        "colors":[
+          "#FF0000",
+          "#141414",
+          "#FFFFFF",
+          "#6977F0",
+          "#AB844A",
+          "#B5A8A1",
+          "#84CC4C",
+          "#73A39D"
+        ],
+        "discount":20,
+        "count":1,
+        "atticle":"lorem",
+        "discriiption":"За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+        "amount":5,
+        "materual":"Полиестр",
+        "strmaterial":"Полиестр"
+      },
+      {
+        "id":6,
+        "img":"https://i.postimg.cc/bw98yxxF/Hit-6.jpg",
+        "title":"Вечернее платье",
+        "price": 1350,
+        "size":"42-52",
+        "like": false,
+        "colors":[
+          "#FF0000",
+          "#141414",
+          "#FFFFFF",
+          "#6977F0",
+          "#AB844A",
+          "#B5A8A1",
+          "#84CC4C",
+          "#73A39D"
+        ],
+        "discount":20,
+        "count":1,
+        "atticle":"lorem",
+        "discriiption":"За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+        "amount":5,
+        "materual":"Полиестр",
+        "strmaterial":"Полиестр"
+      },
+      {
+        "id":7,
+        "img":"https://i.postimg.cc/0QF1Wcvr/HIt-4.jpg",
+        "title":"Вечернее платье",
+        "price": 1350,
+        "size":"42-52",
+        "like": false,
+        "colors":[
+          "#FF0000",
+          "#141414",
+          "#FFFFFF",
+          "#6977F0",
+          "#AB844A",
+          "#B5A8A1",
+          "#84CC4C",
+          "#73A39D"
+        ],
+        "discount":20,
+        "count":1,
+        "atticle":"lorem",
+        "discriiption":"За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+        "amount":5,
+        "materual":"Полиестр",
+        "strmaterial":"Полиестр"
+      },
+      {
+        "id":8,
+        "img":"https://i.postimg.cc/KYcbR1Qc/Hit-7.jpg",
+        "title":"Вечернее платье",
+        "price": 1350,
+        "size":"42-52",
+        "like": false,
+        "colors":[
+          "#FF0000",
+          "#141414",
+          "#FFFFFF",
+          "#6977F0",
+          "#AB844A",
+          "#B5A8A1",
+          "#84CC4C",
+          "#73A39D"
+        ],
+        "discount":20,
+        "count":1,
+        "atticle":"lorem",
+        "discriiption":"За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+        "amount":5,
+        "materual":"Полиестр",
+        "strmaterial":"Полиестр"
+      }
+    ],
+    "new":[
+      {
+        "id":1,
+        "img":"https://i.postimg.cc/fWSNtn7d/New.jpg",
+        "title":"Вечернее платье",
+        "price": 1350,
+        "size":"42-52",
+        "like": false,
+        "colors":[
+          "#FF0000",
+          "#141414",
+          "#FFFFFF",
+          "#6977F0",
+          "#AB844A",
+          "#B5A8A1",
+          "#84CC4C",
+          "#73A39D"
+        ],
+        "discount":20,
+        "count":1,
+        "atticle":"lorem",
+        "discriiption":"За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+        "amount":5,
+        "materual":"Полиестр",
+        "strmaterial":"Полиестр"
+      },
+      {
+        "id":2,
+        "img":"https://i.postimg.cc/rF6L5ngP/New-1.jpg",
+        "title":"Вечернее платье",
+        "price": 1350,
+        "size":"42-52",
+        "like": false,
+        "colors":[
+          "#FF0000",
+          "#141414",
+          "#FFFFFF",
+          "#6977F0",
+          "#AB844A",
+          "#B5A8A1",
+          "#84CC4C",
+          "#73A39D"
+        ],
+        "discount":20,
+        "count":1,
+        "atticle":"lorem",
+        "discriiption":"За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+        "amount":5,
+        "materual":"Полиестр",
+        "strmaterial":"Полиестр"
+      },
+      {
+        "id":3,
+        "img":"https://i.postimg.cc/T1bMZg20/New-2.jpg",
+        "title":"Вечернее платье",
+        "price": 1350,
+        "size":"42-52",
+        "like": false,
+        "colors":[
+          "#FF0000",
+          "#141414",
+          "#FFFFFF",
+          "#6977F0",
+          "#AB844A",
+          "#B5A8A1",
+          "#84CC4C",
+          "#73A39D"
+        ],
+        "discount":20,
+        "count":1,
+        "atticle":"lorem",
+        "discriiption":"За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+        "amount":5,
+        "materual":"Полиестр",
+        "strmaterial":"Полиестр"
+      },
+      {
+        "id":4,
+        "img":"https://i.postimg.cc/rF6L5ngP/New-1.jpg",
+        "title":"Вечернее платье",
+        "price": 1350,
+        "size":"42-52",
+        "like": false,
+        "colors":[
+          "#FF0000",
+          "#141414",
+          "#FFFFFF",
+          "#6977F0",
+          "#AB844A",
+          "#B5A8A1",
+          "#84CC4C",
+          "#73A39D"
+        ],
+        "discount":20,
+        "count":1,
+        "atticle":"lorem",
+        "discriiption":"За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+        "amount":5,
+        "materual":"Полиестр",
+        "strmaterial":"Полиестр"
+      }
+    ],
+    "collection":[
+      {
+        "title":"Полследняя одежда",
+        "img":"https://i.postimg.cc/jqBRZdqv/Hit-1.jpg",
+        "id":1
+      },
+      {
+        "title":"Одежда на пляж",
+        "img":"https://i.postimg.cc/jqBRZdqv/Hit-1.jpg",
+        "id":2
+      },
+      {
+        "title":"Юбки",
+        "img":"https://i.postimg.cc/jqBRZdqv/Hit-1.jpg",
+        "id":3
+      },
+      {
+        "title":"Джинсы",
+        "img":"https://i.postimg.cc/jqBRZdqv/Hit-1.jpg",
+        "id":4
+      }
+    ],
+  "about":[
+     {
+        "text":"У нас Вы найдёте всё, что Вам так нужно. Ассортимент магазина постоянно расширяется и дополняется в зависимости от пожеланий клиентов. Женская одежда из наших коллекций – это комфортная, стильная и качественная одежда не только на каждый день, но и для любых ситуаций по доступным ценам.Натуральные материалы, продуманные силуэты, современный дизайн и возможность легкого сочетания моделей помогут Вам всегда оставаться в центре внимания и чувствовать себя уместно в любой ситуации.Если Вы любите одеваться ярко, модно и оригинально, у нас Вы найдете все необходимое, чтобы всегда быть в центре внимания. У нас большая коллекция для любого торжества и праздника, которая сможет удовлетворить вкус самой взыскательной модницы! А для деловых ситуаций, в которых Вам непременно нужно выглядеть элегантно и стильно, мы предлагаем Вам одежду из коллекции 'деловой стиль и офис'. Мода постоянно диктует нам свои требования и для современной девушки, желающей идти в ногу со временем, важно иметь возможность постоянно пополнять свой гардероб стильной одеждой."
+      },
+    {
+      "img":"https://i.postimg.cc/Gm06s43w/about.jpg",
+        "id":1
+    },
+    {
+      "img":"https://i.postimg.cc/kM2nQtCB/about-2.jpg",
+        "id":2
+    },
+    {
+      "img":"https://i.postimg.cc/Ls27NGZx/about-3.jpg",
+        "id":3
+    }
+  ],
+  "news":[
+    {
+      "img":"https://i.postimg.cc/8cw6VnNY/news.jpg",
+      "id":1,
+      "title":"Lorem ipsum dolor sit amet",
+      "value":"Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis "
+    },
+     {
+      "img":"https://i.postimg.cc/qqp3SdVn/news-3.jpg",
+      "id":2,
+      "title":"Lorem ipsum dolor sit amet",
+      "value":"Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis "
+    },
+     {
+      "img":"https://i.postimg.cc/wxkJJ3Lk/news-2.jpg",
+      "id":3,
+      "title":"Lorem ipsum dolor sit amet",
+      "value":"Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis "
+    },
+     {
+      "img":"https://i.postimg.cc/NM6XdjVB/news-4.jpg",
+      "id":4,
+      "title":"Lorem ipsum dolor sit amet",
+      "value":"Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis "
+    },
+    {
+      "img":"https://i.postimg.cc/8cw6VnNY/news.jpg",
+      "id":5,
+      "title":"Lorem ipsum dolor sit amet",
+      "value":"Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis "
+    },
+     {
+      "img":"https://i.postimg.cc/qqp3SdVn/news-3.jpg",
+      "id":6,
+      "title":"Lorem ipsum dolor sit amet",
+      "value":"Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis "
+    },
+     {
+      "img":"https://i.postimg.cc/wxkJJ3Lk/news-2.jpg",
+      "id":7,
+      "title":"Lorem ipsum dolor sit amet",
+      "value":"Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis "
+    },
+     {
+      "img":"https://i.postimg.cc/NM6XdjVB/news-4.jpg",
+      "id":8,
+      "title":"Lorem ipsum dolor sit amet",
+      "value":"Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis "
+    }  
+  ],
+  "support":[
+  {
+    "id":1,
+    "quastion":"Как я могу заказать одежду?",
+    "answer":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. Ut cras ut rhoncus fermentum pharetra a sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit."
+  },
+  {
+    "id":2,
+    "quastion":"Как я могу заказать одежду?",
+    "answer":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. Ut cras ut rhoncus fermentum pharetra a sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit."
+  },
+  {
+    "id":3,
+    "quastion":"Как я могу заказать одежду?",
+    "answer":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. Ut cras ut rhoncus fermentum pharetra a sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit."
+  },
+  {
+    "id":4,
+    "quastion":"Как я могу заказать одежду?",
+    "answer":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. Ut cras ut rhoncus fermentum pharetra a sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit."
+  },
+  {
+    "id":5,
+    "quastion":"Как я могу заказать одежду?",
+    "answer":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. Ut cras ut rhoncus fermentum pharetra a sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit."
+  },
+  {
+    "id":6,
+    "quastion":"Как я могу заказать одежду?",
+    "answer":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. Ut cras ut rhoncus fermentum pharetra a sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit."
+  },
+  {
+    "id":7,
+    "quastion":"Как я могу заказать одежду?",
+    "answer":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. Ut cras ut rhoncus fermentum pharetra a sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit."
   }
+  ]
 }

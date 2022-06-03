@@ -1,0 +1,62 @@
+.body
+    padding: 0
+    margin: 0
+    box-sizing: border-box
+.accordion
+    width: 100%
+    margin: 6px auto
+    color: #000
+    background: #fff
+    &_block
+        width: 100%
+        padding: 20px
+    &_heading
+        background: white
+        .accordion_block
+            display: flex
+            align-items: center
+            justify-content: space-between
+            padding: 0
+            padding-right: 20px
+            padding-left: 20px
+        p
+            letter-spacing: 1.2px
+            margin-top: 3%
+            font-family: 'Montserrat'
+            font-style: normal
+            font-weight: 400
+            font-size: 16px
+            line-height: 20px
+            display: flex
+            align-items: center
+            color: #393939
+            
+        span
+            cursor: pointer
+            font-size: 30px
+            height: 100%
+    &_onContent
+        height: 0
+        opacity: 0
+        display: flex
+        overflow: hidden
+        animation: accord 5s 
+        transition: all 600ms ease-in-out
+        .accordion_block
+            p
+                letter-spacing: 1.6
+                font-family: 'Montserrat'
+                font-style: normal
+                font-weight: 100
+                font-size: 14px
+                line-height: 160%
+                display: flex
+                align-items: flex-end
+                color: #354455
+        .show
+            height: 180px
+            @keyframes accord
+                0%
+                    opacity: 0
+                100%
+                    opacity: 1

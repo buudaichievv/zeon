@@ -3,13 +3,23 @@ header {
   width: auto;
   left: -683px;
   top: -77px;
-  border-radius: 10px;
+  background: #fff;
+}
+
+header a {
+  text-decoration: none;
+  color: #000;
+}
+
+header a:hover {
+  color: grey;
 }
 
 header .HeaderUp nav {
   display: flex;
   justify-content: space-between;
   width: auto;
+  border-bottom: 1px solid #F8F8F8;
 }
 
 header .HeaderUp nav ul {
@@ -38,41 +48,43 @@ header .HeaderDown {
   display: flex;
   justify-content: space-around;
   margin-top: 15px;
+  width: 100%;
 }
 
-header .HeaderDown .d3 {
-  margin: auto;
-}
-
-header .HeaderDown .d3 input, header .HeaderDown .d3 button {
-  border: none;
-  outline: none;
-  background: transparent;
-}
-
-header .HeaderDown .d3 .Search {
-  height: 44px;
-  width: 622px;
+header .HeaderDown .logo {
+  height: 70px;
+  width: 162px;
+  left: 0px;
+  top: 9px;
   border-radius: 0px;
-  border: none;
+}
+
+header .HeaderDown form {
+  height: 100%;
+  margin-top: 1.5%;
+}
+
+header .HeaderDown form .Search {
+  height: 44px;
+  width: 502px;
+  border-radius: 0px;
   border: 1px solid #E0E0E0;
+  border-right: none;
+  background: #F8F8F8;
   padding-left: 15px;
 }
 
-header .HeaderDown .d3 button {
-  height: 42px;
-  width: 42px;
-  position: absolute;
-  top: 0;
-  right: 0;
-  cursor: pointer;
+header .HeaderDown form .header_search_btn {
+  height: 44px;
+  width: 44px;
+  border: 1px solid #e0e0e0;
+  background: #f8f8f8;
+  border-left: none;
+  margin-bottom: 20px;
 }
 
-header .HeaderDown .d3 button:before {
-  content: "\f002";
-  font-family: FontAwesome;
-  font-size: 16px;
-  color: #F9F0DD;
+header .HeaderDown form .header_search_btn img {
+  width: 20px;
 }
 
 header .HeaderDown .liked {
@@ -107,63 +119,4 @@ header .HeaderDown .basket p {
 header .HeaderDown .basket img {
   width: 20px;
   height: 20px;
-}
-
-@media (max-width: 375px) {
-  header {
-    height: 64px;
-    width: auto;
-    left: -683px;
-    top: -77px;
-    border-radius: 10px;
-  }
-  header .HeaderUp {
-    display: none;
-  }
-  header .HeaderDown {
-    display: block;
-  }
-  header .HeaderDown .logo {
-    width: 100px;
-    height: 43px;
-    display: block;
-    margin: 10.5px auto;
-  }
-  header .HeaderDown .Search {
-    height: 44px;
-    width: 622px;
-    margin: auto;
-    border-radius: 0px;
-    border: none;
-    border: 1px solid #E0E0E0;
-    padding: 11px;
-  }
-  header .HeaderDown .liked {
-    display: flex;
-    align-items: center;
-    margin-right: 20px;
-  }
-  header .HeaderDown .liked p {
-    margin-bottom: 2px;
-    margin-left: 10px;
-    align-content: center;
-  }
-  header .HeaderDown .liked img {
-    width: 20px;
-    height: 20px;
-  }
-  header .HeaderDown .basket {
-    display: flex;
-    align-items: center;
-    margin-left: 20px;
-  }
-  header .HeaderDown .basket p {
-    margin-bottom: 2px;
-    align-content: center;
-    margin-left: 10px;
-  }
-  header .HeaderDown .basket img {
-    width: 20px;
-    height: 20px;
-  }
 }

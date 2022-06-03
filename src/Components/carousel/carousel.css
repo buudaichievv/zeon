@@ -1,0 +1,24 @@
+@import "react-alice-carousel/lib/alice-carousel.css";
+.alice-carousel__prev-btn-wrapper{
+    display: none;
+}
+.alice-carousel__next-btn-wrapper{
+    display: none;
+}
+.alice-carousel__dots{
+    margin: 5px 3px 5px;
+}
+.alice-carousel__dots-item{
+    background: none;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+.alice-carousel__dots-item__active{
+    background: #000;
+}
+.alice-carousel__dots-item:hover{
+    background-color: #000;
+}
+.carousel{
+    margin-top: 11px;
+}

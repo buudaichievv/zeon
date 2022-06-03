@@ -1,0 +1,52 @@
+.collection_wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin-top: 18px;
+}
+
+.collection_wrapper .collection_card_wrapper {
+  position: relative;
+  width: 240px;
+}
+
+.collection_wrapper .collection_card_wrapper .collection_img {
+  width: 280px;
+}
+
+.collection_wrapper .collection_card_wrapper .collection_img_text {
+  position: absolute;
+  top: 300px;
+  left: 25%;
+  color: white;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+  text-align: center;
+}
+
+.collection_wrapper .collection_card_wrapper .collection_btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 18px 12px 30px;
+  width: 280px;
+  height: 44px;
+  background: #1D1D1B;
+  border: none;
+  color: white;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+}
+
+.collection_wrapper .collection_card_wrapper .collection_btn:hover {
+  background: #fff;
+  color: #000;
+}

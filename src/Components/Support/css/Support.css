@@ -1,0 +1,20 @@
+.sup_wrapper {
+  display: flex;
+  width: 100%;
+  margin-top: 2%;
+  justify-content: space-around;
+}
+
+.sup_wrapper .accordion_wrapper {
+  width: 55%;
+  padding: 0;
+}
+
+.sup_wrapper .accordion_wrapper h3 {
+  text-align: left;
+}
+
+.sup_wrapper img {
+  width: 40%;
+  height: 40%;
+}

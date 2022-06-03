@@ -1,0 +1,103 @@
+h3 {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+}
+
+.hit_wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: auto;
+}
+
+.hit_wrapper .hit_card {
+  width: 276px;
+  height: 515px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  margin: 4px 0px;
+  border: 1px solid #d3d3d3;
+}
+
+.hit_wrapper .hit_card_img {
+  width: 100%;
+}
+
+.hit_wrapper .hit_card .prices {
+  display: flex;
+}
+
+.hit_wrapper .hit_card p, .hit_wrapper .hit_card s {
+  margin: 0;
+  padding: 2px 8px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.hit_wrapper .hit_card .hit_card_title {
+  font-size: 13px;
+  color: #393939;
+  font-weight: 400;
+  margin: 0;
+}
+
+.hit_wrapper .hit_card .hit_card_price {
+  font-size: 16px;
+}
+
+.hit_wrapper .hit_card .hit_card_size {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  opacity: 0.5;
+}
+
+.hit_wrapper .hit_card .hit_card_discounts {
+  color: grey;
+  opacity: 0.5;
+  color: #7C7C7C;
+  font-weight: 400;
+}
+
+.hit_wrapper .hit_card_color_block {
+  display: flex;
+  justify-content: space-around;
+  width: 60%;
+  margin-top: 5px;
+}
+
+.hit_wrapper .hit_card_color_block .circle {
+  width: 8px;
+  height: 12px;
+  border: none;
+  border-radius: 50%;
+  content: " ";
+}
+
+.hit_wrapper_more {
+  display: block;
+  margin: 0 auto;
+  align-items: center;
+  border: none;
+  color: white;
+  width: 107px;
+  height: 32px;
+  background: #1D1D1B;
+  font-family: Montserrat;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 16px;
+  margin-top: 16px;
+  letter-spacing: 0em;
+}
