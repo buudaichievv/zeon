@@ -1,18 +1,35 @@
 import React, {useEffect} from 'react'
 import './css/News.css'
-import { useDispatch } from 'react-redux'
 import axios from 'axios'
-import { useSelector } from 'react-redux'
+import { useState } from 'react'
 export default function News() {
-  const dispatch = useDispatch()
+  const [newsComponent, setNewsComponent] = useState([])
+  const [currentPage, setCurrentPage] = useState(1)
+  const [fetchingPage, setFetchingPage] = useState(true)
+  const [totalCount,setTotalCount] = useState(0)
   useEffect(() => {
-      axios(`http://localhost:3005/news`)
-                  .then(({ data }) => {
-                      dispatch({type:"actionAddNewsProduct", newsProducts: data})
-                      
+    if (fetchingPage) {
+        axios(`http://localhost:3005/news?_page=${currentPage}&_limit=4`)
+                  .then(( res ) => {
+                      setNewsComponent([...newsComponent,...res.data])
+                    setCurrentPage(prev => prev + 1)
+                    setTotalCount(res.headers['x-total-count'])
                   })
-  }, [])
-  const { newsProduct } = useSelector((store)=>store)
+                  .finally(()=>setFetchingPage(false))
+     }
+  }, [fetchingPage])
+  useEffect(() => {
+    document.addEventListener('scroll', scrollHandler)
+    return function () {
+        document.removeEventListener('scroll', scrollHandler)
+      }
+  }, [fetchingPage])
+  const scrollHandler = (e) => {
+    
+    if (e.target.documentElement.scrollHeight - (e.target.documentElement.scrollTop + window.innerHeight) < 100 && newsComponent.length < totalCount){
+      setFetchingPage(true)
+    }
+  }
   return (
       <div className='news_wrapper'>
         <div className="container">
@@ -20,7 +37,7 @@ export default function News() {
               Новости
         </h2>
         {
-          newsProduct.map((el, index)=>{
+          newsComponent.map((el, index)=>{
             return (
               <div className="news_block_value" key={index}>
                   <img src={el.img} alt="" className='news_block_value_text'/>

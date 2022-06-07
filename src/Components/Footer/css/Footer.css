@@ -26,6 +26,11 @@ footer .logoFooter {
   margin-top: 16px;
 }
 
+footer .footer_block .contactNumber {
+  height: 100%;
+  margin: 0;
+}
+
 footer .footer_block a {
   text-decoration: none;
   color: #fff;

@@ -1,7 +1,7 @@
 import React from 'react'
 import { useSelector } from 'react-redux'
 import "./css/Novelties.css"
-export default function Novelties() {
+export default function Novelties({setNewLimit}) {
     const { newProduct } = useSelector((store) => store)
   return (
       <section>
@@ -31,7 +31,7 @@ export default function Novelties() {
                 })
                   
               }
-              <button className='novelties_wrapper_more'>Eще</button>
+              <button className='novelties_wrapper_more' onClick={()=>{setNewLimit(prev=>prev+4)}}>Eще</button>
         </div>
     </section>
   )

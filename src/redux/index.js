@@ -7,7 +7,8 @@ const initialState = {
     sliderProduct: [],
     aboutProduct: [],
     newsProduct: [],
-    supProduct:[]
+    supProduct: [],
+    collectionProduct:[]
 }
 const actionAddHitProduct = "actionAddHitProduct"
 const actionAddNewProduct = "actionAddNewProduct"
@@ -31,7 +32,7 @@ const Reduser = (state = initialState,action) => {
         case actionAddCollectionProduct:
             return {
                 ...state,
-                hollectionProduct: action.collectionProducts
+                collectionProduct: action.collectionProducts
             }
         case actionAddSliderProduct:    
             return {

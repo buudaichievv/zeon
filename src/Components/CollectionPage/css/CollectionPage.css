@@ -1,4 +1,4 @@
-.collection_wrapper {
+.collectionPage_wrapper {
   display: flex;
   width: 100%;
   justify-content: space-between;
@@ -6,23 +6,23 @@
   flex-wrap: wrap;
 }
 
-.collection_wrapper .collection_card_wrapper {
+.collectionPage_wrapper .collectionPage_card_wrapper {
   position: relative;
   width: 240px;
   margin-top: 8px;
 }
 
-.collection_wrapper .collection_card_wrapper .collection_img {
+.collectionPage_wrapper .collectionPage_card_wrapper .collectionPage_img {
   width: 280px;
 }
 
-.collection_wrapper .collection_card_wrapper .text_wrap {
+.collectionPage_wrapper .collectionPage_card_wrapper .text_wrap {
   position: absolute;
   top: 300px;
   width: 280px;
 }
 
-.collection_wrapper .collection_card_wrapper .collection_img_text {
+.collectionPage_wrapper .collectionPage_card_wrapper .text_wrap .collection_img_text {
   width: 100%;
   text-align: center;
   color: white;
@@ -33,7 +33,7 @@
   line-height: 18px;
 }
 
-.collection_wrapper .collection_card_wrapper .collection_btn {
+.collectionPage_wrapper .collectionPage_card_wrapper .collectionPage_btn {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -52,7 +52,11 @@
   text-align: center;
 }
 
-.collection_wrapper .collection_card_wrapper .collection_btn:hover {
+.collectionPage_wrapper .collectionPage_card_wrapper .collectionPage_btn:hover {
   background: #fff;
   color: #000;
+}
+
+.CollectionPageTitle {
+  text-align: left;
 }

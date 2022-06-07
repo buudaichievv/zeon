@@ -3,7 +3,7 @@ import React,{ useState } from 'react'
 import { useSelector } from 'react-redux'
 
 import './css/Hit.css'
-export default function Hit() {  
+export default function Hit({setHitLimit}) {  
     const { hitProduct } = useSelector((store) => store)
     return (
       
@@ -36,7 +36,7 @@ export default function Hit() {
                 
                   
               }
-              <button className='hit_wrapper_more'>Eще</button>
+              <button className='hit_wrapper_more' onClick={()=>{setHitLimit(prev=>prev+4)}}>Eще</button>
         </div>
     </section>
   )

@@ -34,11 +34,11 @@ export default function Footer() {
           <h3>Контакты</h3>
                   <div className="footer_block_value">
                     <img src={icon} alt="" />
-                    <p>{footerInfo?.contact?.number}</p>
+                    <p className='contactNumber'><a href='tel:+996 999 00 00 00'>{footerInfo?.contact?.number}</a></p>
             </div>
               <div className="footer_block_value">
                     <img src={icon} alt="" />
-                    <p>{footerInfo?.contact?.number}</p>
+                    <p className='contactNumber'><a href='tel:+996 999 00 00 00'>{footerInfo?.contact?.number}</a></p>
             </div>
             <div className="footer_block_value">
                     <img src={icon} alt="" />
