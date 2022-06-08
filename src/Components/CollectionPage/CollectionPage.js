@@ -26,7 +26,7 @@ export default function CollectionPage() {
                               <div className='collectionPage_card_wrapper' key={index}>
                                     <img src={el.img} alt="" className='collectionPage_img'/>
                                    <div className="text_wrap"><p className='collection_img_text'>{el.title}</p></div>
-                                  <button className='collectionPage_btn' onClick={() => nav(`/collection/${el.title}`)}>смотреть на все</button>
+                                  <button className='collectionPage_btn' onClick={() => nav(`/collection/${el.product}`)}>смотреть на все</button>
                               </div>
                           )
                       })

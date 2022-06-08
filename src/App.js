@@ -18,7 +18,7 @@ export default function App() {
         <Route exact path='/news' element={<News />} />
         <Route exact path='/support' element={<Support />} />
         <Route exact path='/collection' element={<CollectionPage />} />
-        <Route exact path='/collection/:name/:id' element={<Besseler/>}/>
+        <Route exact path='/collection/:name' element={<Besseler/>}/>
       </Routes>
       <Footer/>
     </div>

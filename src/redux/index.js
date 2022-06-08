@@ -8,7 +8,8 @@ const initialState = {
     aboutProduct: [],
     newsProduct: [],
     supProduct: [],
-    collectionProduct:[]
+    collectionProduct: [],
+    currentCollection:[]
 }
 const actionAddHitProduct = "actionAddHitProduct"
 const actionAddNewProduct = "actionAddNewProduct"
@@ -17,6 +18,7 @@ const actionAddSliderProduct = "actionAddSliderProduct"
 const actionAddAboutProduct = "actionAddAboutProduct"
 const actionAddNewsProduct = "actionAddNewsProduct"
 const actionAddSupProduct = "actionAddSupProduct"
+const actionAddCurrentCollection = "actionAddCurrentCollection"
 const Reduser = (state = initialState,action) => {
     switch (action.type) {
         case actionAddHitProduct:
@@ -33,6 +35,11 @@ const Reduser = (state = initialState,action) => {
             return {
                 ...state,
                 collectionProduct: action.collectionProducts
+            }
+        case actionAddCurrentCollection:
+            return {
+                ...state,
+                currentCollection: action.currentCollections
             }
         case actionAddSliderProduct:    
             return {

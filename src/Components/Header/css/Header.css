@@ -90,7 +90,8 @@ header .HeaderDown form .header_search_btn img {
 header .HeaderDown .liked {
   display: flex;
   align-items: center;
-  margin-right: 20px;
+  margin-left: 20px;
+  position: relative;
 }
 
 header .HeaderDown .liked p {
@@ -99,15 +100,60 @@ header .HeaderDown .liked p {
   align-content: center;
 }
 
-header .HeaderDown .liked img {
+header .HeaderDown .liked .likedIcon {
   width: 20px;
   height: 20px;
+  max-width: 100%;
+}
+
+header .HeaderDown .liked:after {
+  content: attr(data-number);
+  width: 15px;
+  height: 15px;
+  background: red;
+  color: #fff;
+  font-size: 13px;
+  display: grid;
+  place-content: center;
+  border-radius: 50%;
+  position: absolute;
+  top: 25px;
+  right: 70%;
+  opacity: 0;
+  transform: translateY(3px);
+}
+
+header .HeaderDown .liked:hover:after {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity .25s;
+  transform: .25s;
+}
+
+header .HeaderDown .liked:hover .likedIcon {
+  animation: snaked 1s forwards;
+}
+
+@keyframes snaked {
+  10% {
+    transform: rotate(15deg);
+  }
+  20% {
+    transform: rotate(-15deg);
+  }
+  30% {
+    transform: rotate(15deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
 }
 
 header .HeaderDown .basket {
   display: flex;
   align-items: center;
   margin-left: 20px;
+  position: relative;
 }
 
 header .HeaderDown .basket p {
@@ -116,7 +162,51 @@ header .HeaderDown .basket p {
   margin-left: 10px;
 }
 
-header .HeaderDown .basket img {
+header .HeaderDown .basket .basketIcon {
   width: 20px;
   height: 20px;
+  max-width: 100%;
+}
+
+header .HeaderDown .basket:after {
+  content: attr(data-number);
+  width: 15px;
+  height: 15px;
+  background: red;
+  color: #fff;
+  font-size: 13px;
+  display: grid;
+  place-content: center;
+  border-radius: 50%;
+  position: absolute;
+  top: 25px;
+  right: 70%;
+  opacity: 0;
+  transform: translateY(3px);
+}
+
+header .HeaderDown .basket:hover:after {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity .25s;
+  transform: .25s;
+}
+
+header .HeaderDown .basket:hover .basketIcon {
+  animation: snake 1s forwards;
+}
+
+@keyframes snake {
+  10% {
+    transform: rotate(15deg);
+  }
+  20% {
+    transform: rotate(-15deg);
+  }
+  30% {
+    transform: rotate(15deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
 }

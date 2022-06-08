@@ -30,18 +30,10 @@ export default function Header() {
                         <button type="submit" className='header_search_btn'><img src={search} alt="" /></button>
                       </form>
                       
-                    <div className="liked"><img src={liked} alt="liked"/><p>избранное</p></div>
-                    <div className="basket"><img src={basket} alt="basket" /><p>корзина</p></div>  
+                    <div className="liked" data-number='1'><img src={liked} alt="liked" className='likedIcon'/><p>избранное</p></div>
+                    <div className="basket" data-number='1'><img src={basket} alt="basket" className='basketIcon'/><p>корзина</p></div>  
               </div>
-              {/* <div className="Header_beard">
-                    <nav aria-label="breadcrumb">
-                      <ol class="breadcrumb">
-              <li class="breadcrumb-item"><Link to="/"></Link></li>
-                          <li class="breadcrumb-item"><a href="">Library</a></li>
-                          <li class="breadcrumb-item active" aria-current="page">Data</li>
-                      </ol>
-                    </nav>   
-                  </div> */}
+        
               </div>
     </header>
   )
