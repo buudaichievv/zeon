@@ -1,0 +1,80 @@
+.details_wrapper {
+  display: grid;
+  grid-template-columns: repeat(11, 6fr 5fr);
+}
+
+.details_wrapper .details_img_wrapper {
+  display: grid;
+  grid-template-columns: 6fr 6fr;
+}
+
+.details_wrapper .details_text_wrapper {
+  width: 520px;
+  height: 434px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  background: #fff;
+  font-weight: 500;
+  padding: 20px;
+  margin-left: 24px;
+}
+
+.details_wrapper .details_text_wrapper .circleDetails {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
+
+.details_wrapper .details_text_wrapper .circleDetails .circle {
+  width: 8px;
+  height: 12px;
+  border: none;
+  border-radius: 50%;
+  content: " ";
+  margin: auto 0;
+}
+
+.details_wrapper .details_text_wrapper .priceDetails {
+  font-size: 24px;
+}
+
+.details_wrapper .details_text_wrapper .tovar span {
+  opacity: 0.6;
+}
+
+.details_wrapper .details_text_wrapper .titleDetails {
+  width: 480px;
+  height: 29px;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.details_wrapper .details_text_wrapper .optionsDetails {
+  display: grid;
+  grid-template-columns: 6fr 6fr;
+}
+
+.details_wrapper .details_text_wrapper .buttonDetails {
+  display: flex;
+  height: 44px;
+  justify-content: space-between;
+}
+
+.details_wrapper .details_text_wrapper .buttonDetails .addBasket {
+  width: 100%;
+  border: none;
+  background: #000;
+  color: #fff;
+}
+
+.details_wrapper .details_text_wrapper .buttonDetails .addBasket .basketWhite {
+  margin-right: 10px;
+}
+
+.details_wrapper .details_text_wrapper .buttonDetails .liked {
+  width: 50px;
+  color: #fff;
+  background: #000;
+  border: none;
+  margin-left: 5px;
+}

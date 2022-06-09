@@ -8,6 +8,7 @@ import News from './Components/News/News'
 import Support from './Components/Support/Support'
 import CollectionPage from './Components/CollectionPage/CollectionPage'
 import Besseler from './Components/besselerPage/Besseler'
+import Details from './Components/Details/Details'
 export default function App() {
   return (
     <div>
@@ -18,7 +19,8 @@ export default function App() {
         <Route exact path='/news' element={<News />} />
         <Route exact path='/support' element={<Support />} />
         <Route exact path='/collection' element={<CollectionPage />} />
-        <Route exact path='/collection/:name' element={<Besseler/>}/>
+        <Route exact path='/collection/:name' element={<Besseler/>} />
+        <Route exact path='/collection/:name/:id' element={<Details/>}/>
       </Routes>
       <Footer/>
     </div>

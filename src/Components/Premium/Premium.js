@@ -7,25 +7,26 @@ import './css/Premium.css'
 export default function Premium() {
   return (
     <div>
+      <h3 id="premium">Наши преимущества</h3>
       <div className="premium_wrapper">
         <div className="premium_block">
           <img src={pay} alt="" />
-          <p>Удобные способы оплаты</p>
+          <p className="premiumTextP">Удобные способы оплаты</p>
           <p className="premiumText">Мы предлагаем возможность безналичной оплаты</p>
         </div>
         <div className="premium_block">
           <img src={track} alt="" />
-          <p>Удобные способы оплаты</p>
+          <p className="premiumTextP">Удобные способы оплаты</p>
           <p className="premiumText">Мы предлагаем возможность безналичной оплаты</p>
         </div>
         <div className="premium_block">
           <img src={sup} className="sup" alt="" />
-          <p>Удобные способы оплаты</p>
+          <p className="premiumTextP">Удобные способы оплаты</p>
           <p className="premiumText">Мы предлагаем возможность безналичной оплаты</p>
         </div>
         <div className="premium_block">
           <img src={shop} alt="" />
-          <p>Удобные способы оплаты</p>
+          <p className="premiumTextP">Удобные способы оплаты</p>
           <p className="premiumText">Мы предлагаем возможность безналичной оплаты</p>
         </div>
       </div>

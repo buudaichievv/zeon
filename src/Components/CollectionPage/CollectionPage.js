@@ -2,7 +2,6 @@ import axios from 'axios'
 import React,{useEffect,useState} from 'react'
 import { useDispatch, useSelector} from 'react-redux'
 import './css/CollectionPage.css'
-import besseler from '../besselerPage/Besseler'
 import { useNavigate } from 'react-router-dom'
 export default function CollectionPage() {
     let nav = useNavigate()
@@ -33,7 +32,7 @@ export default function CollectionPage() {
                   }
           </div>
           {/* onClick={()=>{setCollection(prev=>prev+4)}} */}
-              
+       
     </div>  
   )
 }

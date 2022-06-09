@@ -1,9 +1,11 @@
 import { axios } from 'axios'
 import React from 'react'
+import { useNavigate } from 'react-router-dom'
 import {useSelector } from 'react-redux'
 import './css/Collection.css'
 export default function Collection({setCollectionLimit}) {
-     const { collectionProduct } = useSelector((store) => store)
+    const { collectionProduct } = useSelector((store) => store)
+    const nav = useNavigate()
   return (
     <section>
           <div className="container">
@@ -15,7 +17,7 @@ export default function Collection({setCollectionLimit}) {
                               <div className='collection_card_wrapper' key={index}>
                                     <img src={el.img} alt="" className='collection_img'/>
                                     <div className="text_wrap"><p className='collection_img_text'>{el.title}</p></div>
-                                  <button className='collection_btn'>смотреть на все</button>
+                                   <button className='collection_btn' onClick={() => nav(`/collection/${el.product}/${el.id}`)}>смотреть на все</button>
                               </div>
                           )
                       })

@@ -3,11 +3,12 @@ import './css/besseler.css'
 import axios from 'axios'
 import { useSelector } from 'react-redux'
 import { useDispatch } from 'react-redux'
-import { useParams } from 'react-router-dom'
-
+import { useNavigate, useParams } from 'react-router-dom'
 export default function Besseler() {
   const dispatch = useDispatch()
-  const { name } = useParams()
+  const { name } = useParams() 
+  const navigate = useNavigate()
+  
   useEffect(() => {
     axios.get(`http://localhost:3005/${name}`)
       .then(({ data }) => {
@@ -15,16 +16,15 @@ export default function Besseler() {
       })
   }, [])
   const { currentCollection } = useSelector((store) => store)
-  console.log(currentCollection)
   return (
     <div className='container'>
       <h3>{currentCollection.titlePage}</h3>
       <div className='hit_wrapper'>
             {
-                currentCollection.map((el,index)=>{
+                currentCollection?.map((el,index)=>{
                 return(
                     
-                        <div className="hit_card" key={index}>
+                        <div className="hit_card" onClick={()=>navigate(`/collection/${el.collection}/${el.id}`)} key={index}>
                             <img src={el.img} alt="img" className="hit_card_img"/>
                             <p className='hit_card_title'>{el.title}</p>
                                 <div className="prices">
@@ -43,9 +43,7 @@ export default function Besseler() {
                     
                 )
                 })
-                
-                  
-              }
+        }
               {/* <button className='hit_wrapper_more' onClick={()=>{setHitLimit(prev=>prev+4)}}>Eще</button> */}
         </div>
     </div>

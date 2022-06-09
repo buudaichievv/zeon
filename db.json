@@ -1589,7 +1589,7 @@
                     "strmaterial":"Полиестр"
                    },
                      {
-                    "id":1,
+                    "id":2,
                     "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
                     "title":"зимние платье",
                     "price": 1350,
@@ -1615,7 +1615,7 @@
                     "strmaterial":"Полиестр"
                    },
                      {
-                    "id":1,
+                    "id":3,
                     "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
                     "title":"зимние платье",
                     "price": 1350,
@@ -1641,7 +1641,7 @@
                     "strmaterial":"Полиестр"
                    },
                      {
-                    "id":1,
+                    "id":4,
                     "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
                     "title":"зимние платье",
                     "price": 1350,
@@ -1667,7 +1667,7 @@
                     "strmaterial":"Полиестр"
                    },
                      {
-                    "id":1,
+                    "id":5,
                     "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
                     "title":"зимние платье",
                     "price": 1350,
@@ -1693,7 +1693,7 @@
                     "strmaterial":"Полиестр"
                    },
                      {
-                    "id":1,
+                    "id":6,
                     "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
                     "title":"зимние платье",
                     "price": 1350,
@@ -1719,7 +1719,33 @@
                     "strmaterial":"Полиестр"
                    },
                      {
-                    "id":1,
+                    "id":7,
+                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "title":"зимние платье",
+                    "price": 1350,
+                    "size":"42-52",
+                    "collection":"spring2020",
+                    "like": false,
+                    "colors":[
+                      "#FF0000",
+                      "#141414",
+                      "#FFFFFF",
+                      "#6977F0",
+                      "#AB844A",
+                      "#B5A8A1",
+                      "#84CC4C",
+                      "#73A39D"
+                    ],
+                    "discount":20,
+                    "count":8,
+                    "atticle":"lorem",
+                    "discriiption":"За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+                    "amount":5,
+                    "materual":"Полиестр",
+                    "strmaterial":"Полиестр"
+                   },
+                     {
+                    "id":8,
                     "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
                     "title":"зимние платье",
                     "price": 1350,
@@ -1745,7 +1771,7 @@
                     "strmaterial":"Полиестр"
                    },
                      {
-                    "id":1,
+                    "id":9,
                     "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
                     "title":"зимние платье",
                     "price": 1350,
@@ -1771,7 +1797,7 @@
                     "strmaterial":"Полиестр"
                    },
                      {
-                    "id":1,
+                    "id":10,
                     "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
                     "title":"зимние платье",
                     "price": 1350,
@@ -1797,7 +1823,7 @@
                     "strmaterial":"Полиестр"
                    },
                      {
-                    "id":1,
+                    "id":11,
                     "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
                     "title":"зимние платье",
                     "price": 1350,
@@ -1823,7 +1849,7 @@
                     "strmaterial":"Полиестр"
                    },
                      {
-                    "id":1,
+                    "id":12,
                     "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
                     "title":"зимние платье",
                     "price": 1350,
@@ -1849,7 +1875,7 @@
                     "strmaterial":"Полиестр"
                    },
                      {
-                    "id":1,
+                    "id":13,
                     "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
                     "title":"зимние платье",
                     "price": 1350,
@@ -1875,7 +1901,7 @@
                     "strmaterial":"Полиестр"
                    },
                      {
-                    "id":1,
+                    "id":14,
                     "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
                     "title":"зимние платье",
                     "price": 1350,
@@ -1901,7 +1927,7 @@
                     "strmaterial":"Полиестр"
                    },
                      {
-                    "id":1,
+                    "id":15,
                     "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
                     "title":"зимние платье",
                     "price": 1350,
@@ -1927,7 +1953,7 @@
                     "strmaterial":"Полиестр"
                    },
                      {
-                    "id":1,
+                    "id":16,
                     "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
                     "title":"зимние платье",
                     "price": 1350,
@@ -1953,7 +1979,7 @@
                     "strmaterial":"Полиестр"
                    },
                      {
-                    "id":1,
+                    "id":17,
                     "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
                     "title":"зимние платье",
                     "price": 1350,
@@ -1979,7 +2005,7 @@
                     "strmaterial":"Полиестр"
                    },
                      {
-                    "id":1,
+                    "id":18,
                     "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
                     "title":"зимние платье",
                     "price": 1350,
@@ -2005,7 +2031,7 @@
                     "strmaterial":"Полиестр"
                    },
                      {
-                    "id":1,
+                    "id":19,
                     "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
                     "title":"зимние платье",
                     "price": 1350,
@@ -2031,33 +2057,7 @@
                     "strmaterial":"Полиестр"
                    },
                      {
-                    "id":1,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
-                    "title":"зимние платье",
-                    "price": 1350,
-                    "size":"42-52",
-                    "collection":"spring2020",
-                    "like": false,
-                    "colors":[
-                      "#FF0000",
-                      "#141414",
-                      "#FFFFFF",
-                      "#6977F0",
-                      "#AB844A",
-                      "#B5A8A1",
-                      "#84CC4C",
-                      "#73A39D"
-                    ],
-                    "discount":20,
-                    "count":1,
-                    "atticle":"lorem",
-                    "discriiption":"За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
-                    "amount":5,
-                    "materual":"Полиестр",
-                    "strmaterial":"Полиестр"
-                   },
-                     {
-                    "id":1,
+                    "id":20,
                     "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
                     "title":"зимние платье",
                     "price": 1350,
@@ -2111,7 +2111,7 @@
                     "strmaterial":"Полиестр"
                    },
                         {
-                    "id":1,
+                    "id":2,
                     "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
                     "title":"осенние платье",
                     "price": 1350,
@@ -2137,7 +2137,7 @@
                     "strmaterial":"Полиестр"
                    },
                         {
-                    "id":1,
+                    "id":3,
                     "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
                     "title":"осенние платье",
                     "price": 1350,
@@ -2163,7 +2163,7 @@
                     "strmaterial":"Полиестр"
                    },
                         {
-                    "id":1,
+                    "id":4,
                     "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
                     "title":"осенние платье",
                     "price": 1350,
@@ -2189,7 +2189,7 @@
                     "strmaterial":"Полиестр"
                    },
                         {
-                    "id":1,
+                    "id":5,
                     "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
                     "title":"осенние платье",
                     "price": 1350,
@@ -2215,7 +2215,7 @@
                     "strmaterial":"Полиестр"
                    },
                    {
-                    "id":1,
+                    "id":6,
                     "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
                     "title":"осенние платье",
                     "price": 1350,
@@ -2241,7 +2241,7 @@
                     "strmaterial":"Полиестр"
                    },
                         {
-                    "id":1,
+                    "id":7,
                     "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
                     "title":"осенние платье",
                     "price": 1350,
@@ -2267,7 +2267,7 @@
                     "strmaterial":"Полиестр"
                    },
                         {
-                    "id":1,
+                    "id":8,
                     "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
                     "title":"осенние платье",
                     "price": 1350,
@@ -2293,7 +2293,7 @@
                     "strmaterial":"Полиестр"
                    },
                         {
-                    "id":1,
+                    "id":9,
                     "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
                     "title":"осенние платье",
                     "price": 1350,
@@ -2319,7 +2319,7 @@
                     "strmaterial":"Полиестр"
                    },
                         {
-                    "id":1,
+                    "id":10,
                     "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
                     "title":"осенние платье",
                     "price": 1350,
@@ -2345,7 +2345,7 @@
                     "strmaterial":"Полиестр"
                    },
                    {
-                    "id":1,
+                    "id":11,
                     "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
                     "title":"осенние платье",
                     "price": 1350,
@@ -2371,7 +2371,7 @@
                     "strmaterial":"Полиестр"
                    },
                         {
-                    "id":1,
+                    "id":12,
                     "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
                     "title":"осенние платье",
                     "price": 1350,
@@ -2397,7 +2397,7 @@
                     "strmaterial":"Полиестр"
                    },
                         {
-                    "id":1,
+                    "id":13,
                     "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
                     "title":"осенние платье",
                     "price": 1350,
@@ -2423,7 +2423,7 @@
                     "strmaterial":"Полиестр"
                    },
                         {
-                    "id":1,
+                    "id":14,
                     "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
                     "title":"осенние платье",
                     "price": 1350,
@@ -2449,7 +2449,7 @@
                     "strmaterial":"Полиестр"
                    },
                         {
-                    "id":1,
+                    "id":15,
                     "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
                     "title":"осенние платье",
                     "price": 1350,
@@ -2475,7 +2475,7 @@
                     "strmaterial":"Полиестр"
                    },
                    {
-                    "id":1,
+                    "id":16,
                     "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
                     "title":"осенние платье",
                     "price": 1350,
@@ -2501,7 +2501,7 @@
                     "strmaterial":"Полиестр"
                    },
                         {
-                    "id":1,
+                    "id":17,
                     "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
                     "title":"осенние платье",
                     "price": 1350,
@@ -2527,7 +2527,7 @@
                     "strmaterial":"Полиестр"
                    },
                         {
-                    "id":1,
+                    "id":18,
                     "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
                     "title":"осенние платье",
                     "price": 1350,
@@ -2553,7 +2553,7 @@
                     "strmaterial":"Полиестр"
                    },
                         {
-                    "id":1,
+                    "id":19,
                     "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
                     "title":"осенние платье",
                     "price": 1350,
@@ -2579,7 +2579,7 @@
                     "strmaterial":"Полиестр"
                    },
                         {
-                    "id":1,
+                    "id":20,
                     "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
                     "title":"осенние платье",
                     "price": 1350,
@@ -2633,7 +2633,7 @@
                     "strmaterial":"Полиестр"
                    },
                    {
-                    "id":1,
+                    "id":2,
                     "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
                     "title":"летние платье",
                     "price": 1350,
@@ -2659,7 +2659,7 @@
                     "strmaterial":"Полиестр"
                    },
                    {
-                    "id":1,
+                    "id":3,
                     "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
                     "title":"летние платье",
                     "price": 1350,
@@ -2685,7 +2685,7 @@
                     "strmaterial":"Полиестр"
                    },
                    {
-                    "id":1,
+                    "id":4,
                     "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
                     "title":"летние платье",
                     "price": 1350,
@@ -2711,7 +2711,7 @@
                     "strmaterial":"Полиестр"
                    },
                    {
-                    "id":1,
+                    "id":5,
                     "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
                     "title":"летние платье",
                     "price": 1350,
@@ -2737,7 +2737,7 @@
                     "strmaterial":"Полиестр"
                    },
                     {
-                    "id":1,
+                    "id":6,
                     "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
                     "title":"летние платье",
                     "price": 1350,
@@ -2763,7 +2763,7 @@
                     "strmaterial":"Полиестр"
                    },
                    {
-                    "id":1,
+                    "id":7,
                     "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
                     "title":"летние платье",
                     "price": 1350,
@@ -2789,7 +2789,7 @@
                     "strmaterial":"Полиестр"
                    },
                    {
-                    "id":1,
+                    "id":8,
                     "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
                     "title":"летние платье",
                     "price": 1350,
@@ -2815,7 +2815,7 @@
                     "strmaterial":"Полиестр"
                    },
                    {
-                    "id":1,
+                    "id":9,
                     "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
                     "title":"летние платье",
                     "price": 1350,
@@ -2841,7 +2841,7 @@
                     "strmaterial":"Полиестр"
                    },
                    {
-                    "id":1,
+                    "id":10,
                     "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
                     "title":"летние платье",
                     "price": 1350,
@@ -2867,7 +2867,7 @@
                     "strmaterial":"Полиестр"
                    },
                     {
-                    "id":1,
+                    "id":11,
                     "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
                     "title":"летние платье",
                     "price": 1350,
@@ -2893,7 +2893,7 @@
                     "strmaterial":"Полиестр"
                    },
                    {
-                    "id":1,
+                    "id":12,
                     "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
                     "title":"летние платье",
                     "price": 1350,
@@ -2919,7 +2919,7 @@
                     "strmaterial":"Полиестр"
                    },
                    {
-                    "id":1,
+                    "id":13,
                     "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
                     "title":"летние платье",
                     "price": 1350,
@@ -2945,7 +2945,7 @@
                     "strmaterial":"Полиестр"
                    },
                    {
-                    "id":1,
+                    "id":14,
                     "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
                     "title":"летние платье",
                     "price": 1350,
@@ -2971,7 +2971,7 @@
                     "strmaterial":"Полиестр"
                    },
                    {
-                    "id":1,
+                    "id":15,
                     "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
                     "title":"летние платье",
                     "price": 1350,
@@ -2997,7 +2997,7 @@
                     "strmaterial":"Полиестр"
                    },
                     {
-                    "id":1,
+                    "id":16,
                     "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
                     "title":"летние платье",
                     "price": 1350,
@@ -3023,7 +3023,7 @@
                     "strmaterial":"Полиестр"
                    },
                    {
-                    "id":1,
+                    "id":17,
                     "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
                     "title":"летние платье",
                     "price": 1350,
@@ -3049,7 +3049,7 @@
                     "strmaterial":"Полиестр"
                    },
                    {
-                    "id":1,
+                    "id":18,
                     "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
                     "title":"летние платье",
                     "price": 1350,
@@ -3075,7 +3075,7 @@
                     "strmaterial":"Полиестр"
                    },
                    {
-                    "id":1,
+                    "id":19,
                     "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
                     "title":"летние платье",
                     "price": 1350,
@@ -3101,7 +3101,7 @@
                     "strmaterial":"Полиестр"
                    },
                    {
-                    "id":1,
+                    "id":20,
                     "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
                     "title":"летние платье",
                     "price": 1350,

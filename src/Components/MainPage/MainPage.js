@@ -42,7 +42,8 @@ export default function MainPage() {
             <Hit setHitLimit={setHitLimit}/>
             <Novelties setNewLimit={setNewLimit}/>
             <Collection setCollectionLimit={setCollectionLimit}/>
-            <Premium/>
+            <Premium />
+            
         </div>
     )
 }
