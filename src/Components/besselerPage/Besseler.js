@@ -21,7 +21,7 @@ export default function Besseler() {
       <h3>{currentCollection.titlePage}</h3>
       <div className='hit_wrapper'>
             {
-                currentCollection?.map((el,index)=>{
+          currentCollection?.map((el, index) => {
                 return(
                     
                         <div className="hit_card" onClick={()=>navigate(`/collection/${el.collection}/${el.id}`)} key={index}>
@@ -34,7 +34,7 @@ export default function Besseler() {
                             <p className='hit_card_size'>размер: {el.size}</p>
                             <div className="hit_card_color_block">
                             {
-                                el.colors.map((el,index) => {
+                                el?.colors?.map((el,index) => {
                                     return <button className='circle' style={{ backgroundColor:el}} key={index}></button>
                                 })    
                             }

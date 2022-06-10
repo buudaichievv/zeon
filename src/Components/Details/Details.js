@@ -6,31 +6,34 @@ import axios from 'axios'
 import { useSelector } from 'react-redux'
 import { useDispatch } from 'react-redux'
 import { useParams } from 'react-router-dom' 
- import image from '../../img/Hit.jpg'
+ 
 export default function Details() {
     const dispatch = useDispatch()
     const { name, id } = useParams() 
-    
     useEffect(() => {
     axios.get(`http://localhost:3005/${name}/${id}`)
       .then(({ data }) => {
         dispatch({ type: "actionAddCurrentCollection", currentCollections: data })
-      })
+        })
   }, [])
     const { currentCollection } = useSelector((store) => store)
-   console.log(currentCollection);
+   
   return (
       <div className='container'>
                     <div className="details_wrapper" key={currentCollection.id}>
                 <div className="details_img_wrapper">
-                 
+                    {
+                      currentCollection?.img?.map((el,index) => {
+                        return <img src={el} alt="" key={index}/>
+                                })
+                    }
                 </div>
                 <div className="details_text_wrapper">
                               <p className='titleDetails'>{currentCollection.title}</p>
-                              <p className='articleDetails'>Артикул: <span>{currentCollection.article}</span></p>
+                              <p className='articleDetails'>Артикул: <span>{currentCollection.atticle}</span></p>
                   <p className='circleDetails'>Цвет:
                      {
-                      currentCollection.colors.map((el,index) => {
+                      currentCollection?.colors?.map((el,index) => {
                           return  (<button className='circle' style={{ backgroundColor:el}} key={index}></button>)
                       })
                     }

@@ -29,6 +29,7 @@ footer .logoFooter {
 footer .footer_block .contactNumber {
   height: 100%;
   margin: 0;
+  text-transform: capitalize;
 }
 
 footer .footer_block a {

@@ -53,6 +53,7 @@ h2 {
 
 .novelties_wrapper .novelties_card .novelties_card_price {
   font-size: 15px;
+  font-weight: 500;
 }
 
 .novelties_wrapper .novelties_card .novelties_card_size {
@@ -74,7 +75,7 @@ h2 {
 .novelties_wrapper .novelties_card .novelties_card_color_block {
   display: flex;
   justify-content: space-around;
-  width: 60%;
+  width: 70%;
   margin-top: 5px;
 }
 
@@ -84,6 +85,7 @@ h2 {
   border: none;
   border-radius: 50%;
   content: " ";
+  opacity: 0.4;
 }
 
 .novelties_wrapper_more {

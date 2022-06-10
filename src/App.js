@@ -9,6 +9,7 @@ import Support from './Components/Support/Support'
 import CollectionPage from './Components/CollectionPage/CollectionPage'
 import Besseler from './Components/besselerPage/Besseler'
 import Details from './Components/Details/Details'
+
 export default function App() {
   return (
     <div>

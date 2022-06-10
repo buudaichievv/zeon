@@ -7,18 +7,18 @@
   "footer": {
     "contact":{
       "number":"+996 500 123 456",
-      "email":"mail@gmail.com"
+      "email":"Mail@gmail.com"
   },
     "messenger":{
-        "instagram":"instagram",
-        "telegram":"telegram",  
-        "whatsapp":"whatsapp"
+        "instagram":"Instagram",
+        "telegram":"Telegram",  
+        "whatsapp":"Whatsapp"
       }
   },
   "hit":[
       {
         "id":1,
-        "img":"https://i.postimg.cc/NM5wkZWW/Hit.jpg",
+        "img":["https://i.postimg.cc/NM5wkZWW/Hit.jpg","https://i.postimg.cc/NM5wkZWW/Hit.jpg","https://i.postimg.cc/NM5wkZWW/Hit.jpg","https://i.postimg.cc/NM5wkZWW/Hit.jpg"],
         "title":"Вечернее платье",
         "price": 1200,
         "size":"42-52",
@@ -43,7 +43,7 @@
       },
       {
         "id":2,
-        "img":"https://i.postimg.cc/jqBRZdqv/Hit-1.jpg",
+        "img":["https://i.postimg.cc/jqBRZdqv/Hit-1.jpg","https://i.postimg.cc/jqBRZdqv/Hit-1.jpg","https://i.postimg.cc/jqBRZdqv/Hit-1.jpg","https://i.postimg.cc/jqBRZdqv/Hit-1.jpg"],
         "title":"Вечернее платье",
         "price": 1350,
         "size":"42-52",
@@ -68,7 +68,7 @@
       },
       {
         "id":3,
-        "img":"https://i.postimg.cc/rphkWqY1/Hit-2.jpg",
+        "img":["https://i.postimg.cc/rphkWqY1/Hit-2.jpg","https://i.postimg.cc/rphkWqY1/Hit-2.jpg","https://i.postimg.cc/rphkWqY1/Hit-2.jpg","https://i.postimg.cc/rphkWqY1/Hit-2.jpg"],
         "title":"Вечернее платье",
         "price": 1350,
         "size":"42-52",
@@ -93,7 +93,7 @@
       },
       {
         "id":4,
-        "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+        "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
         "title":"Вечернее платье",
         "price": 1350,
         "size":"42-52",
@@ -118,7 +118,7 @@
       },
       {
         "id":5,
-        "img":"https://i.postimg.cc/13Qs1Cqq/HIt-5.jpg",
+        "img":["https://i.postimg.cc/13Qs1Cqq/HIt-5.jpg","https://i.postimg.cc/13Qs1Cqq/HIt-5.jpg","https://i.postimg.cc/13Qs1Cqq/HIt-5.jpg","https://i.postimg.cc/13Qs1Cqq/HIt-5.jpg"],
         "title":"Вечернее платье",
         "price": 1350,
         "size":"42-52",
@@ -143,7 +143,7 @@
       },
       {
         "id":6,
-        "img":"https://i.postimg.cc/bw98yxxF/Hit-6.jpg",
+        "img":["https://i.postimg.cc/bw98yxxF/Hit-6.jpg","https://i.postimg.cc/bw98yxxF/Hit-6.jpg","https://i.postimg.cc/bw98yxxF/Hit-6.jpg","https://i.postimg.cc/bw98yxxF/Hit-6.jpg"],
         "title":"Вечернее платье",
         "price": 1350,
         "size":"42-52",
@@ -168,7 +168,7 @@
       },
       {
         "id":7,
-        "img":"https://i.postimg.cc/0QF1Wcvr/HIt-4.jpg",
+        "img":["https://i.postimg.cc/0QF1Wcvr/HIt-4.jpg","https://i.postimg.cc/0QF1Wcvr/HIt-4.jpg","https://i.postimg.cc/0QF1Wcvr/HIt-4.jpg","https://i.postimg.cc/0QF1Wcvr/HIt-4.jpg"],
         "title":"Вечернее платье",
         "price": 1350,
         "size":"42-52",
@@ -193,7 +193,7 @@
       },
       {
         "id":10,
-        "img":"https://i.postimg.cc/KYcbR1Qc/Hit-7.jpg",
+        "img":["https://i.postimg.cc/KYcbR1Qc/Hit-7.jpg","https://i.postimg.cc/KYcbR1Qc/Hit-7.jpg","https://i.postimg.cc/KYcbR1Qc/Hit-7.jpg","https://i.postimg.cc/KYcbR1Qc/Hit-7.jpg"],
         "title":"Вечернее платье",
         "price": 1350,
         "size":"42-52",
@@ -218,7 +218,7 @@
       }, 
       {
         "id":11,
-        "img":"https://i.postimg.cc/NM5wkZWW/Hit.jpg",
+        "img":["https://i.postimg.cc/NM5wkZWW/Hit.jpg","https://i.postimg.cc/NM5wkZWW/Hit.jpg","https://i.postimg.cc/NM5wkZWW/Hit.jpg","https://i.postimg.cc/NM5wkZWW/Hit.jpg"],
         "title":"Вечернее платье",
         "price": 1200,
         "size":"42-52",
@@ -243,7 +243,7 @@
       },
       {
         "id":12,
-        "img":"https://i.postimg.cc/jqBRZdqv/Hit-1.jpg",
+        "img":["https://i.postimg.cc/jqBRZdqv/Hit-1.jpg","https://i.postimg.cc/jqBRZdqv/Hit-1.jpg","https://i.postimg.cc/jqBRZdqv/Hit-1.jpg","https://i.postimg.cc/jqBRZdqv/Hit-1.jpg"],
         "title":"Вечернее платье",
         "price": 1350,
         "size":"42-52",
@@ -268,7 +268,7 @@
       },
       {
         "id":13,
-        "img":"https://i.postimg.cc/rphkWqY1/Hit-2.jpg",
+        "img":["https://i.postimg.cc/rphkWqY1/Hit-2.jpg","https://i.postimg.cc/rphkWqY1/Hit-2.jpg","https://i.postimg.cc/rphkWqY1/Hit-2.jpg","https://i.postimg.cc/rphkWqY1/Hit-2.jpg"],
         "title":"Вечернее платье",
         "price": 1350,
         "size":"42-52",
@@ -293,7 +293,7 @@
       },
       {
         "id":14,
-        "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+        "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
         "title":"Вечернее платье",
         "price": 1350,
         "size":"42-52",
@@ -320,7 +320,7 @@
     "new":[
       {
         "id":1,
-        "img":"https://i.postimg.cc/fWSNtn7d/New.jpg",
+        "img":["https://i.postimg.cc/fWSNtn7d/New.jpg","https://i.postimg.cc/fWSNtn7d/New.jpg","https://i.postimg.cc/fWSNtn7d/New.jpg","https://i.postimg.cc/fWSNtn7d/New.jpg"],
         "title":"Вечернее платье",
         "price": 1350,
         "size":"42-52",
@@ -345,7 +345,7 @@
       },
       {
         "id":2,
-        "img":"https://i.postimg.cc/rF6L5ngP/New-1.jpg",
+        "img":["https://i.postimg.cc/rF6L5ngP/New-1.jpg","https://i.postimg.cc/rF6L5ngP/New-1.jpg","https://i.postimg.cc/rF6L5ngP/New-1.jpg","https://i.postimg.cc/rF6L5ngP/New-1.jpg"],
         "title":"Вечернее платье",
         "price": 1350,
         "size":"42-52",
@@ -370,7 +370,7 @@
       },
       {
         "id":3,
-        "img":"https://i.postimg.cc/T1bMZg20/New-2.jpg",
+        "img":["https://i.postimg.cc/T1bMZg20/New-2.jpg","https://i.postimg.cc/T1bMZg20/New-2.jpg","https://i.postimg.cc/T1bMZg20/New-2.jpg","https://i.postimg.cc/T1bMZg20/New-2.jpg"],
         "title":"Вечернее платье",
         "price": 1350,
         "size":"42-52",
@@ -395,7 +395,7 @@
       },
       {
         "id":4,
-        "img":"https://i.postimg.cc/rF6L5ngP/New-1.jpg",
+        "img":["https://i.postimg.cc/rF6L5ngP/New-1.jpg","https://i.postimg.cc/rF6L5ngP/New-1.jpg","https://i.postimg.cc/rF6L5ngP/New-1.jpg","https://i.postimg.cc/rF6L5ngP/New-1.jpg"],
         "title":"Вечернее платье",
         "price": 1350,
         "size":"42-52",
@@ -419,7 +419,7 @@
         "strmaterial":"Полиестр"
       }, {
         "id":1,
-        "img":"https://i.postimg.cc/fWSNtn7d/New.jpg",
+        "img":["https://i.postimg.cc/fWSNtn7d/New.jpg","https://i.postimg.cc/fWSNtn7d/New.jpg","https://i.postimg.cc/fWSNtn7d/New.jpg","https://i.postimg.cc/fWSNtn7d/New.jpg"],
         "title":"Вечернее платье",
         "price": 1350,
         "size":"42-52",
@@ -444,7 +444,7 @@
       },
       {
         "id":2,
-        "img":"https://i.postimg.cc/rF6L5ngP/New-1.jpg",
+        "img":["https://i.postimg.cc/rF6L5ngP/New-1.jpg","https://i.postimg.cc/rF6L5ngP/New-1.jpg","https://i.postimg.cc/rF6L5ngP/New-1.jpg","https://i.postimg.cc/rF6L5ngP/New-1.jpg"],
         "title":"Вечернее платье",
         "price": 1350,
         "size":"42-52",
@@ -469,7 +469,7 @@
       },
       {
         "id":3,
-        "img":"https://i.postimg.cc/T1bMZg20/New-2.jpg",
+        "img":["https://i.postimg.cc/T1bMZg20/New-2.jpg","https://i.postimg.cc/T1bMZg20/New-2.jpg","https://i.postimg.cc/T1bMZg20/New-2.jpg","https://i.postimg.cc/T1bMZg20/New-2.jpg"],
         "title":"Вечернее платье",
         "price": 1350,
         "size":"42-52",
@@ -494,7 +494,7 @@
       },
       {
         "id":4,
-        "img":"https://i.postimg.cc/rF6L5ngP/New-1.jpg",
+        "img":["https://i.postimg.cc/rF6L5ngP/New-1.jpg","https://i.postimg.cc/rF6L5ngP/New-1.jpg","https://i.postimg.cc/rF6L5ngP/New-1.jpg","https://i.postimg.cc/rF6L5ngP/New-1.jpg"],
         "title":"Вечернее платье",
         "price": 1350,
         "size":"42-52",
@@ -522,7 +522,7 @@
                   
                   {
                     "id":41,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -548,7 +548,7 @@
                    },
                    {
                     "id":1,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -574,7 +574,7 @@
                    },
                    {
                     "id":2,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -600,7 +600,7 @@
                    },
                    {
                     "id":3,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -626,7 +626,7 @@
                    },
                    {
                     "id":4,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -652,7 +652,7 @@
                    },
                    {
                     "id":5,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -678,7 +678,7 @@
                    },
                    {
                     "id":6,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -704,7 +704,7 @@
                    },
                    {
                     "id":7,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -730,7 +730,7 @@
                    },
                    {
                     "id":8,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -756,7 +756,7 @@
                    },
                    {
                     "id":9,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -782,7 +782,7 @@
                    },
                    {
                     "id":10,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -808,7 +808,7 @@
                    },
                    {
                     "id":11,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -834,7 +834,7 @@
                    },
                    {
                     "id":12,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -860,7 +860,7 @@
                    },
                    {
                     "id":13,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -886,7 +886,7 @@
                    },
                    {
                     "id":14,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -912,7 +912,7 @@
                    },
                    {
                     "id":15,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -938,7 +938,7 @@
                    },
                    {
                     "id":16,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -964,7 +964,7 @@
                    },
                    {
                     "id":17,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -990,7 +990,7 @@
                    },
                    {
                     "id":18,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1016,7 +1016,7 @@
                    },
                    {
                     "id":19,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1042,7 +1042,7 @@
                    },
                     {
                     "id":20,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1068,7 +1068,7 @@
                    },
                    {
                     "id":21,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1094,7 +1094,7 @@
                    },
                    {
                     "id":22,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1120,7 +1120,7 @@
                    },
                    {
                     "id":23,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1146,7 +1146,7 @@
                    },
                    {
                     "id":24,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1172,7 +1172,7 @@
                    },
                    {
                     "id":25,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1198,7 +1198,7 @@
                    },
                    {
                     "id":26,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1224,7 +1224,7 @@
                    },
                    {
                     "id":27,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1250,7 +1250,7 @@
                    },
                    {
                     "id":28,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1276,7 +1276,7 @@
                    },
                    {
                     "id":29,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1302,7 +1302,7 @@
                    },
                    {
                     "id":30,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1328,7 +1328,7 @@
                    },
                    {
                     "id":31,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1354,7 +1354,7 @@
                    },
                    {
                     "id":32,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1380,7 +1380,7 @@
                    },
                    {
                     "id":33,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1406,7 +1406,7 @@
                    },
                    {
                     "id":34,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1432,7 +1432,7 @@
                    },
                    {
                     "id":35,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1458,7 +1458,7 @@
                    },
                    {
                     "id":36,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1484,7 +1484,7 @@
                    },
                    {
                     "id":37,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1510,7 +1510,7 @@
                    },
                    {
                     "id":38,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1536,7 +1536,7 @@
                    },
                    {
                     "id":39,
-                    "img":"https://i.postimg.cc/KYCJg4XN/Hit.jpg",
+                    "img":["https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg","https://i.postimg.cc/KYCJg4XN/Hit.jpg"],
                     "title":"Вечернее платье",
                     "price": 1350,
                     "size":"42-52",
@@ -1564,11 +1564,11 @@
     "winter2020":[
       {
                     "id":1,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -1590,11 +1590,11 @@
                    },
                      {
                     "id":2,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -1616,11 +1616,11 @@
                    },
                      {
                     "id":3,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -1642,11 +1642,11 @@
                    },
                      {
                     "id":4,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -1668,11 +1668,11 @@
                    },
                      {
                     "id":5,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -1694,11 +1694,11 @@
                    },
                      {
                     "id":6,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -1720,11 +1720,11 @@
                    },
                      {
                     "id":7,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -1746,11 +1746,11 @@
                    },
                      {
                     "id":8,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -1772,11 +1772,11 @@
                    },
                      {
                     "id":9,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -1798,11 +1798,11 @@
                    },
                      {
                     "id":10,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -1824,11 +1824,11 @@
                    },
                      {
                     "id":11,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -1850,11 +1850,11 @@
                    },
                      {
                     "id":12,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -1876,11 +1876,11 @@
                    },
                      {
                     "id":13,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -1902,11 +1902,11 @@
                    },
                      {
                     "id":14,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -1928,11 +1928,11 @@
                    },
                      {
                     "id":15,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -1954,11 +1954,11 @@
                    },
                      {
                     "id":16,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -1980,11 +1980,11 @@
                    },
                      {
                     "id":17,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2006,11 +2006,11 @@
                    },
                      {
                     "id":18,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2032,11 +2032,11 @@
                    },
                      {
                     "id":19,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2058,11 +2058,11 @@
                    },
                      {
                     "id":20,
-                    "img":"https://i.postimg.cc/N0KdMmnF/Hit-2.jpg",
+                    "img":["https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg","https://i.postimg.cc/N0KdMmnF/Hit-2.jpg"],
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"winter2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2086,11 +2086,11 @@
     "auturm2020":[
       {
                     "id":1,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2112,11 +2112,11 @@
                    },
                         {
                     "id":2,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2138,11 +2138,11 @@
                    },
                         {
                     "id":3,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2164,11 +2164,11 @@
                    },
                         {
                     "id":4,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2190,11 +2190,11 @@
                    },
                         {
                     "id":5,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2216,11 +2216,11 @@
                    },
                    {
                     "id":6,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2242,11 +2242,11 @@
                    },
                         {
                     "id":7,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2268,11 +2268,11 @@
                    },
                         {
                     "id":8,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2294,11 +2294,11 @@
                    },
                         {
                     "id":9,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2320,11 +2320,11 @@
                    },
                         {
                     "id":10,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2346,11 +2346,11 @@
                    },
                    {
                     "id":11,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2372,11 +2372,11 @@
                    },
                         {
                     "id":12,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2398,11 +2398,11 @@
                    },
                         {
                     "id":13,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2424,11 +2424,11 @@
                    },
                         {
                     "id":14,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2450,11 +2450,11 @@
                    },
                         {
                     "id":15,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2476,11 +2476,11 @@
                    },
                    {
                     "id":16,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2502,11 +2502,11 @@
                    },
                         {
                     "id":17,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2528,11 +2528,11 @@
                    },
                         {
                     "id":18,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2554,11 +2554,11 @@
                    },
                         {
                     "id":19,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2580,11 +2580,11 @@
                    },
                         {
                     "id":20,
-                    "img":"https://i.postimg.cc/9058s0JM/HIt-5.jpg",
+                    "img":["https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg","https://i.postimg.cc/9058s0JM/HIt-5.jpg"],
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"auturm2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2608,11 +2608,11 @@
     "summer2020":[
       {
                     "id":1,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2634,11 +2634,11 @@
                    },
                    {
                     "id":2,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2660,11 +2660,11 @@
                    },
                    {
                     "id":3,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2686,11 +2686,11 @@
                    },
                    {
                     "id":4,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2712,11 +2712,11 @@
                    },
                    {
                     "id":5,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2738,11 +2738,11 @@
                    },
                     {
                     "id":6,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2764,11 +2764,11 @@
                    },
                    {
                     "id":7,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2790,11 +2790,11 @@
                    },
                    {
                     "id":8,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2816,11 +2816,11 @@
                    },
                    {
                     "id":9,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2842,11 +2842,11 @@
                    },
                    {
                     "id":10,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2868,11 +2868,11 @@
                    },
                     {
                     "id":11,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2894,11 +2894,11 @@
                    },
                    {
                     "id":12,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2920,11 +2920,11 @@
                    },
                    {
                     "id":13,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2946,11 +2946,11 @@
                    },
                    {
                     "id":14,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2972,11 +2972,11 @@
                    },
                    {
                     "id":15,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -2998,11 +2998,11 @@
                    },
                     {
                     "id":16,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -3024,11 +3024,11 @@
                    },
                    {
                     "id":17,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -3050,11 +3050,11 @@
                    },
                    {
                     "id":18,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -3076,11 +3076,11 @@
                    },
                    {
                     "id":19,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -3102,11 +3102,11 @@
                    },
                    {
                     "id":20,
-                    "img":"https://i.postimg.cc/GhYdNwHR/Hit-1.jpg",
+                    "img":["https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg","https://i.postimg.cc/GhYdNwHR/Hit-1.jpg"],
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"spring2020",
+                    "collection":"summer2020",
                     "like": false,
                     "colors":[
                       "#FF0000",
@@ -3176,6 +3176,18 @@
         "img":"https://i.postimg.cc/qvjFgkMb/Coll-4.jpg",
         "id":8,
         "product":"winter2020"
+      },
+        {
+        "title":"хит продажи",
+        "img":"https://i.postimg.cc/qvjFgkMb/Coll-4.jpg",
+        "id":9,
+        "product":"hit"
+      },
+        {
+        "title":"новинки",
+        "img":"https://i.postimg.cc/qvjFgkMb/Coll-4.jpg",
+        "id":10,
+        "product":"new"
       }
     ],
   "about":[

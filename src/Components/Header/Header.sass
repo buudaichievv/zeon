@@ -7,6 +7,7 @@ header
     a
         text-decoration: none
         color: #000
+        text-transform: capitalize
     a:hover
         color: grey
     .HeaderUp
@@ -28,14 +29,16 @@ header
                     letter-spacing: 0em
                     text-align: left
                     color: #393939
-                    p
+                    .tel
                         display: inline
+                        opacity: 0.5
                         color: #393939
     .HeaderDown
         display: flex
         justify-content: space-around
         margin-top: 15px
         width: 100%
+        text-transform: capitalize
         .logo
             height: 70px
             width: 162px
@@ -54,6 +57,7 @@ header
                 border-right: none
                 background: #F8F8F8
                 padding-left: 15px
+                outline: none
             .header_search_btn
                 height: 44px
                 width: 44px
@@ -89,14 +93,9 @@ header
             border-radius: 50%
             position: absolute
             top: 25px
-            right: 70%
-            opacity: 0
-            transform: translateY(3px) 
-        .liked:hover:after
+            right: 73%
             opacity: 1
-            transform: translateY(0)
-            transition: opacity .25s
-            transform: .25s
+            transform: translateY(3px) 
         .liked:hover .likedIcon
             animation: snaked 1s forwards
             @keyframes snaked
@@ -136,13 +135,8 @@ header
             position: absolute
             top: 25px
             right: 70%
-            opacity: 0
-            transform: translateY(3px) 
-        .basket:hover:after
             opacity: 1
-            transform: translateY(0)
-            transition: opacity .25s
-            transform: .25s
+            transform: translateY(3px) 
         .basket:hover .basketIcon
             animation: snake 1s forwards
             @keyframes snake

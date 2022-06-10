@@ -7,7 +7,16 @@ import search from '../..//img/search.png'
 import { Link, NavLink } from 'react-router-dom'
 
 export default function Header() {
-    
+  const [value, setValue] = useState('')
+  // useEffect(() => {
+  //   axios(`http://localhost:3005`)
+  //     .then(({ data }) => {
+  //       const data = data        
+  //       console.log(data)
+  //     })
+  //   }
+  // )
+    // const filterCards = data.filter()
   return (
       <header>
           <div className="container">
@@ -19,14 +28,14 @@ export default function Header() {
                       <li><NavLink to = '/news'>Новости</NavLink></li>
                   </ul>
                   <ul>
-                      <li><p>тел: </p><a href='tel:+996 999 00 00 00'>+996 999 00 00 00</a></li>
+                      <li><p className='tel'>тел: </p><a href='tel:+996 999 00 00 00'>+996 999 00 00 00</a></li>
                   </ul>
                 </nav>
               </div>
               <div className="HeaderDown">
                     <NavLink to='/'><img src={logo} alt="Logo" className='logo' /></NavLink>
                       <form>
-                        <input type="text" placeholder="Искать здесь..." className="Search"/>
+                        <input type="text" placeholder="Поиск" className="Search" onChange={(event)=>setValue(event.target.value)}/>
                         <button type="submit" className='header_search_btn'><img src={search} alt="" /></button>
                       </form>
                       

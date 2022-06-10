@@ -14,7 +14,7 @@
     border-radius: 50%;
 }
 .alice-carousel__dots-item__active{
-    background: #000;
+    background: #000 !important;
 }
 .alice-carousel__dots-item:hover{
     background-color: #000;

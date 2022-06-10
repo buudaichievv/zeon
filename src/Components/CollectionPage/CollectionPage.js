@@ -6,7 +6,7 @@ import { useNavigate } from 'react-router-dom'
 export default function CollectionPage() {
     let nav = useNavigate()
     const dispatch = useDispatch()
-    const [collection, setCollection] = useState(8)
+    const [collection, setCollection] = useState(10)
     useEffect(() => {
         axios(`http://localhost:3005/collection?&_limit=${collection}`)
             .then(({ data }) => {
@@ -22,10 +22,10 @@ export default function CollectionPage() {
                   {
                       collectionProduct.map((el,index) => {
                           return (
-                              <div className='collectionPage_card_wrapper' key={index}>
+                              <div className='collectionPage_card_wrapper' onClick={() => nav(`/collection/${el.product}`)} key={index}>
                                     <img src={el.img} alt="" className='collectionPage_img'/>
                                    <div className="text_wrap"><p className='collection_img_text'>{el.title}</p></div>
-                                  <button className='collectionPage_btn' onClick={() => nav(`/collection/${el.product}`)}>смотреть на все</button>
+                                  <button className='collectionPage_btn' >смотреть на все</button>
                               </div>
                           )
                       })

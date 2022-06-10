@@ -9,6 +9,7 @@ header {
 header a {
   text-decoration: none;
   color: #000;
+  text-transform: capitalize;
 }
 
 header a:hover {
@@ -39,8 +40,9 @@ header .HeaderUp nav ul li {
   color: #393939;
 }
 
-header .HeaderUp nav ul li p {
+header .HeaderUp nav ul li .tel {
   display: inline;
+  opacity: 0.5;
   color: #393939;
 }
 
@@ -49,6 +51,7 @@ header .HeaderDown {
   justify-content: space-around;
   margin-top: 15px;
   width: 100%;
+  text-transform: capitalize;
 }
 
 header .HeaderDown .logo {
@@ -72,6 +75,7 @@ header .HeaderDown form .Search {
   border-right: none;
   background: #F8F8F8;
   padding-left: 15px;
+  outline: none;
 }
 
 header .HeaderDown form .header_search_btn {
@@ -119,16 +123,9 @@ header .HeaderDown .liked:after {
   border-radius: 50%;
   position: absolute;
   top: 25px;
-  right: 70%;
-  opacity: 0;
-  transform: translateY(3px);
-}
-
-header .HeaderDown .liked:hover:after {
+  right: 73%;
   opacity: 1;
-  transform: translateY(0);
-  transition: opacity .25s;
-  transform: .25s;
+  transform: translateY(3px);
 }
 
 header .HeaderDown .liked:hover .likedIcon {
@@ -183,15 +180,8 @@ header .HeaderDown .basket:after {
   position: absolute;
   top: 25px;
   right: 70%;
-  opacity: 0;
-  transform: translateY(3px);
-}
-
-header .HeaderDown .basket:hover:after {
   opacity: 1;
-  transform: translateY(0);
-  transition: opacity .25s;
-  transform: .25s;
+  transform: translateY(3px);
 }
 
 header .HeaderDown .basket:hover .basketIcon {

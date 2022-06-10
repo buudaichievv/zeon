@@ -42,7 +42,7 @@ export default function Footer() {
             </div>
             <div className="footer_block_value">
                     <img src={icon} alt="" />
-                    <p>{footerInfo?.contact?.email}</p>
+                    <p><a href="https://mail.google.com/">{footerInfo?.contact?.email}</a></p>
             </div>
         </div>
         <div className="messenger footer_block">
