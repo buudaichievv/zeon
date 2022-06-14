@@ -1,4 +1,5 @@
-{ 
+{
+
   "slider":[
    {"img":"https://i.postimg.cc/CKdpkcpK/carousel.jpg"},
    {"img":"https://i.postimg.cc/CKdpkcpK/carousel.jpg"},
@@ -23,6 +24,8 @@
         "price": 1200,
         "size":"42-52",
         "like": false,
+        "product": "hit",
+        "collection":"hit",
         "colors":[
           "#FF0000",
           "#141414",
@@ -48,6 +51,8 @@
         "price": 1350,
         "size":"42-52",
         "like": false,
+         "product": "hit",
+ "collection":"hit",
         "colors":[
           "#FF0000",
           "#141414",
@@ -73,6 +78,8 @@
         "price": 1350,
         "size":"42-52",
         "like": false,
+         "product": "hit",
+ "collection":"hit",
         "colors":[
           "#FF0000",
           "#141414",
@@ -98,6 +105,8 @@
         "price": 1350,
         "size":"42-52",
         "like": false,
+         "product": "hit",
+ "collection":"hit",
         "colors":[
           "#FF0000",
           "#141414",
@@ -123,6 +132,8 @@
         "price": 1350,
         "size":"42-52",
         "like": false,
+         "product": "hit",
+ "collection":"hit",
         "colors":[
           "#FF0000",
           "#141414",
@@ -148,6 +159,8 @@
         "price": 1350,
         "size":"42-52",
         "like": false,
+         "product": "hit",
+ "collection":"hit",
         "colors":[
           "#FF0000",
           "#141414",
@@ -173,6 +186,8 @@
         "price": 1350,
         "size":"42-52",
         "like": false,
+         "product": "hit",
+ "collection":"hit",
         "colors":[
           "#FF0000",
           "#141414",
@@ -198,6 +213,8 @@
         "price": 1350,
         "size":"42-52",
         "like": false,
+         "product": "hit",
+ "collection":"hit",
         "colors":[
           "#FF0000",
           "#141414",
@@ -223,6 +240,8 @@
         "price": 1200,
         "size":"42-52",
         "like": false,
+         "product": "hit",
+ "collection":"hit",
         "colors":[
           "#FF0000",
           "#141414",
@@ -248,6 +267,8 @@
         "price": 1350,
         "size":"42-52",
         "like": false,
+         "product": "hit",
+ "collection":"hit",
         "colors":[
           "#FF0000",
           "#141414",
@@ -273,6 +294,8 @@
         "price": 1350,
         "size":"42-52",
         "like": false,
+         "product": "hit",
+ "collection":"hit",
         "colors":[
           "#FF0000",
           "#141414",
@@ -298,6 +321,8 @@
         "price": 1350,
         "size":"42-52",
         "like": false,
+         "product": "hit",
+ "collection":"hit",
         "colors":[
           "#FF0000",
           "#141414",
@@ -325,6 +350,8 @@
         "price": 1350,
         "size":"42-52",
         "like": false,
+        "product":"new",
+        "collection":"new",
         "colors":[
           "#FF0000",
           "#141414",
@@ -350,6 +377,8 @@
         "price": 1350,
         "size":"42-52",
         "like": false,
+        "product":"new",
+        "collection":"new",
         "colors":[
           "#FF0000",
           "#141414",
@@ -375,6 +404,8 @@
         "price": 1350,
         "size":"42-52",
         "like": false,
+        "product":"new",
+        "collection":"new",
         "colors":[
           "#FF0000",
           "#141414",
@@ -400,6 +431,8 @@
         "price": 1350,
         "size":"42-52",
         "like": false,
+        "product":"new",
+        "collection":"new",
         "colors":[
           "#FF0000",
           "#141414",
@@ -424,6 +457,8 @@
         "price": 1350,
         "size":"42-52",
         "like": false,
+        "product":"new",
+        "collection":"new",
         "colors":[
           "#FF0000",
           "#141414",
@@ -449,6 +484,8 @@
         "price": 1350,
         "size":"42-52",
         "like": false,
+        "product":"new",
+        "collection":"new",
         "colors":[
           "#FF0000",
           "#141414",
@@ -474,6 +511,8 @@
         "price": 1350,
         "size":"42-52",
         "like": false,
+        "product":"new",
+        "collection":"new",
         "colors":[
           "#FF0000",
           "#141414",
@@ -499,6 +538,8 @@
         "price": 1350,
         "size":"42-52",
         "like": false,
+        "product":"new",
+        "collection":"new",
         "colors":[
           "#FF0000",
           "#141414",
@@ -554,6 +595,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -580,6 +622,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -606,6 +649,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -632,6 +676,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -658,6 +703,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -684,6 +730,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -710,6 +757,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -736,6 +784,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -762,6 +811,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -788,6 +838,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -814,6 +865,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -840,6 +892,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -866,6 +919,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -892,6 +946,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -918,6 +973,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -944,6 +1000,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -970,6 +1027,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -996,6 +1054,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1022,6 +1081,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1048,6 +1108,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1074,6 +1135,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1100,6 +1162,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1126,6 +1189,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1152,6 +1216,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1178,6 +1243,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1204,6 +1270,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1230,6 +1297,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1256,6 +1324,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1282,6 +1351,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1308,6 +1378,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1334,6 +1405,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1360,6 +1432,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1386,6 +1459,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1412,6 +1486,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1438,6 +1513,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1464,6 +1540,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1490,6 +1567,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1516,6 +1594,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1542,6 +1621,7 @@
                     "size":"42-52",
                     "collection":"spring2020",
                     "like": false,
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1568,8 +1648,10 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
+                    
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1594,8 +1676,9 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1620,8 +1703,9 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1646,8 +1730,9 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1672,8 +1757,9 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1698,8 +1784,9 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1724,8 +1811,9 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1750,8 +1838,9 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1776,8 +1865,9 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1802,8 +1892,9 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1828,8 +1919,9 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1854,8 +1946,9 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1880,8 +1973,9 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1906,8 +2000,9 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1932,8 +2027,9 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1958,8 +2054,9 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -1984,8 +2081,9 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2010,8 +2108,9 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2036,8 +2135,9 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2062,8 +2162,9 @@
                     "title":"зимние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"winter2020",
+                   "collection":"winter2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2090,8 +2191,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2116,8 +2218,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2142,8 +2245,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2168,8 +2272,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2194,8 +2299,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2220,8 +2326,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2246,8 +2353,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2272,8 +2380,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2298,8 +2407,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2324,8 +2434,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2350,8 +2461,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2376,8 +2488,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2402,8 +2515,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2428,8 +2542,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2454,8 +2569,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2480,8 +2596,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2506,8 +2623,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2532,8 +2650,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2558,8 +2677,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2584,8 +2704,9 @@
                     "title":"осенние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"auturm2020",
+                   "collection":"auturm2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2612,8 +2733,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2638,8 +2760,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2664,8 +2787,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2690,8 +2814,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2716,8 +2841,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2742,8 +2868,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2768,8 +2895,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2794,8 +2922,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2820,8 +2949,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2846,8 +2976,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2872,8 +3003,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2898,8 +3030,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2924,8 +3057,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2950,8 +3084,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -2976,8 +3111,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -3002,8 +3138,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -3028,8 +3165,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -3054,8 +3192,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -3080,8 +3219,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -3106,8 +3246,9 @@
                     "title":"летние платье",
                     "price": 1350,
                     "size":"42-52",
-                    "collection":"summer2020",
+                   "collection":"summer2020",
                     "like": false,
+                    "product":"collection",
                     "colors":[
                       "#FF0000",
                       "#141414",
@@ -3133,6 +3274,18 @@
         "title":"Весна 2020",
         "img":"https://i.postimg.cc/TwZFGCYT/Coll-1.jpg",
         "id":1,
+        "product":"spring2020"
+      },
+      {
+        "title":"Весна 2020",
+        "img":"https://i.postimg.cc/Qdb25QSq/Coll-2.jpg",
+        "id":11,
+        "product":"spring2020"
+      },
+      {
+        "title":"Весна 2020",
+        "img":"https://i.postimg.cc/qvjFgkMb/Coll-4.jpg",
+        "id":12,
         "product":"spring2020"
       },
       {

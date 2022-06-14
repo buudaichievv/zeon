@@ -1,18 +1,4 @@
-.besseler_wrapper {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  width: auto;
-}
-
-.besseler_wrapper .loading {
-  width: 276px;
-  height: 515px;
-  margin: 4px 0px;
-  border: 1px solid red;
-}
-
-.besseler_wrapper .besseler_card {
+.card {
   width: 276px;
   height: 515px;
   display: flex;
@@ -23,11 +9,11 @@
   border: 1px solid #d3d3d3;
 }
 
-.besseler_wrapper .besseler_card_img {
+.card_img {
   width: 100%;
 }
 
-.besseler_wrapper .besseler_card_discount {
+.card_discount {
   position: absolute;
   left: 0;
   top: 0;
@@ -39,18 +25,18 @@
   z-index: 1;
 }
 
-.besseler_wrapper .besseler_card_follow {
+.card_follow {
   position: absolute;
   right: 5%;
   top: 2%;
   z-index: 100;
 }
 
-.besseler_wrapper .besseler_card .prices {
+.card .prices {
   display: flex;
 }
 
-.besseler_wrapper .besseler_card p, .besseler_wrapper .besseler_card s {
+.card p, .card s {
   margin: 0;
   padding: 2px 8px;
   font-family: 'Montserrat';
@@ -60,19 +46,19 @@
   line-height: 20px;
 }
 
-.besseler_wrapper .besseler_card .besseler_card_title {
+.card .card_title {
   font-size: 13px;
   color: #393939;
   font-weight: 400;
   margin: 0;
 }
 
-.besseler_wrapper .besseler_card .besseler_card_price {
+.card .card_price {
   font-size: 15px;
   font-weight: 500;
 }
 
-.besseler_wrapper .besseler_card .besseler_card_size {
+.card .card_size {
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 400;
@@ -81,21 +67,21 @@
   opacity: 0.5;
 }
 
-.besseler_wrapper .besseler_card .besseler_card_discounts {
+.card ._discounts {
   color: grey;
   opacity: 0.5;
   color: #7C7C7C;
   font-weight: 400;
 }
 
-.besseler_wrapper .besseler_card .besseler_card_color_block {
+.card .card_color_block {
   display: flex;
   justify-content: space-around;
   width: 70%;
   margin-top: 5px;
 }
 
-.besseler_wrapper .besseler_card .besseler_card_color_block .circle {
+.card .card_color_block .circle {
   width: 5px;
   opacity: 0.4;
   height: 12px;

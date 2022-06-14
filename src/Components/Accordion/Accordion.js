@@ -6,10 +6,10 @@ export default function Accordion(props) {
     const [visible, setVisible] = useState(false)
   return (
     <div className="accordion">
-        <div className="accordion_heading">
+        <div className="accordion_heading" onClick={() => props.setActive(props.id)}>
             <div className="accordion_block" onClick={()=>setVisible(!visible)}>
                   <p>{props.title}</p>
-                <span onClick={() => props.setActive(props.id)}>
+                <span>
                       {props.active === props.id? "^" : "˅"}
                 </span>
             </div>

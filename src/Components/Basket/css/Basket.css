@@ -1,0 +1,20 @@
+.basket_wrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 11px;
+}
+
+.basket_wrapper .basket_card_wrapper {
+  content: " ";
+  width: 758px;
+  height: 166px;
+  background: white;
+}
+
+.basket_wrapper .basket_block_wrapper {
+  content: " ";
+  width: 344px;
+  height: 311px;
+  background: white;
+}

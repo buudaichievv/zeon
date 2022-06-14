@@ -9,6 +9,8 @@ import Support from './Components/Support/Support'
 import CollectionPage from './Components/CollectionPage/CollectionPage'
 import Besseler from './Components/besselerPage/Besseler'
 import Details from './Components/Details/Details'
+import Basket from './Components/Basket/Basket'
+import Liked from './Components/Liked/Liked'
 
 export default function App() {
   return (
@@ -16,6 +18,8 @@ export default function App() {
       <Header />
       <Routes>
         <Route exact path='/' element={<MainPage />} />
+        <Route exact path='/liked' element={<Liked/>}/>
+        <Route exact path='/basket' element={<Basket/>}/>
         <Route exact path='/about' element={<About />} />
         <Route exact path='/news' element={<News />} />
         <Route exact path='/support' element={<Support />} />

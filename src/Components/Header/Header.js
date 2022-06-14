@@ -1,22 +1,14 @@
-import React,{useState} from 'react'
+import React,{useState,useEffect} from 'react'
 import './css/Header.css'
 import logo from '../../img/logo.png'
 import basket from '../../img/basket.png'
 import liked from '../../img/liked.png'
 import search from '../..//img/search.png'
 import { Link, NavLink } from 'react-router-dom'
-
+import { useSelector } from 'react-redux'
 export default function Header() {
   const [value, setValue] = useState('')
-  // useEffect(() => {
-  //   axios(`http://localhost:3005`)
-  //     .then(({ data }) => {
-  //       const data = data        
-  //       console.log(data)
-  //     })
-  //   }
-  // )
-    // const filterCards = data.filter()
+    const { favorite } = useSelector((store) => store)
   return (
       <header>
           <div className="container">
@@ -39,10 +31,12 @@ export default function Header() {
                         <button type="submit" className='header_search_btn'><img src={search} alt="" /></button>
                       </form>
                       
-                    <div className="liked" data-number='1'><img src={liked} alt="liked" className='likedIcon'/><p>избранное</p></div>
-                    <div className="basket" data-number='1'><img src={basket} alt="basket" className='basketIcon'/><p>корзина</p></div>  
+                    <div className="liked" ><NavLink to="/liked"><img src={liked} alt="liked" className='likedIcon'/><p>избранное</p></NavLink></div>
+                    <div className="basket"><NavLink to="/basket"><img src={basket} alt="basket" className='basketIcon'/><p>корзина</p></NavLink></div>
               </div>
-        
+              <div className='HeaderDown'>
+                  {/* <p onClick={()=>{`/{}`}}></p> */}
+              </div>
               </div>
     </header>
   )

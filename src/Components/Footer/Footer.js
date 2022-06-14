@@ -22,7 +22,7 @@ export default function Footer() {
       <div className="container">
         <div className="footer">
           <div className="logo footer_block">
-            <img src={logoF} alt="Logo" className='logoFooter' />
+            <NavLink to='/'><img src={logoF} alt="Logo" className='logoFooter' /></NavLink>
           </div>
         <div className="company footer_block">
           <h3>Компания</h3>

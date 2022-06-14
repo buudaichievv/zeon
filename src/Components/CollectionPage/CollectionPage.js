@@ -6,19 +6,19 @@ import { useNavigate } from 'react-router-dom'
 export default function CollectionPage() {
     let nav = useNavigate()
     const dispatch = useDispatch()
-    const [collection, setCollection] = useState(10)
+    const [collection] = useState(12)    
     useEffect(() => {
         axios(`http://localhost:3005/collection?&_limit=${collection}`)
             .then(({ data }) => {
                 dispatch({ type: 'actionAddCollectionProduct', collectionProducts: data })
-                
-        })
+            })
     }, [])
-     const { collectionProduct } = useSelector((store) => store)
+    const { collectionProduct } = useSelector((store) => store)
+    
   return (
      <div className="container">
               <h2 className='CollectionPageTitle'>Коллекция</h2>
-              <div className="collectionPage_wrapper">
+                <div className="collectionPage_wrapper">
                   {
                       collectionProduct.map((el,index) => {
                           return (
@@ -30,8 +30,8 @@ export default function CollectionPage() {
                           )
                       })
                   }
-          </div>
-          {/* onClick={()=>{setCollection(prev=>prev+4)}} */}
+                </div>
+          
        
     </div>  
   )

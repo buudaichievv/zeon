@@ -9,7 +9,9 @@ const initialState = {
     newsProduct: [],
     supProduct: [],
     collectionProduct: [],
-    currentCollection:[]
+    currentCollection: [],
+    favorite: localStorage.getItem("favorits") ?
+        JSON.parse(localStorage.getItem("favorits")):[]
 }
 const actionAddHitProduct = "actionAddHitProduct"
 const actionAddNewProduct = "actionAddNewProduct"
@@ -19,6 +21,8 @@ const actionAddAboutProduct = "actionAddAboutProduct"
 const actionAddNewsProduct = "actionAddNewsProduct"
 const actionAddSupProduct = "actionAddSupProduct"
 const actionAddCurrentCollection = "actionAddCurrentCollection"
+const actionFavorite = "actionFavorite"
+const actionRemoveFavorite = "actionRemoveFavorite"
 const Reduser = (state = initialState,action) => {
     switch (action.type) {
         case actionAddHitProduct:
@@ -26,6 +30,18 @@ const Reduser = (state = initialState,action) => {
                 ...state,
                 hitProduct: action.hitProducts
             }
+        case actionFavorite:
+            localStorage.setItem("favorits", JSON.stringify([...state.favorite, action.favorits ]))
+            return {
+                ...state,
+                favorite: [...state.favorite, action.favorits]
+            }
+        case actionRemoveFavorite:
+            localStorage.removeItem("favorits", JSON.stringify([...state.favorite, action.favorits ]))
+        return {
+            ...state,
+            favorite: [...state.favorite, action.favorits]
+        }
         case actionAddNewProduct:    
             return {
                 ...state,
@@ -39,7 +55,7 @@ const Reduser = (state = initialState,action) => {
         case actionAddCurrentCollection:
             return {
                 ...state,
-                currentCollection: action.currentCollections
+                currentCollection: action.currentCollection
             }
         case actionAddSliderProduct:    
             return {

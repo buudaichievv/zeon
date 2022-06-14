@@ -12,27 +12,28 @@ export default function Besseler() {
   useEffect(() => {
     axios.get(`http://localhost:3005/${name}`)
       .then(({ data }) => {
-        dispatch({ type: "actionAddCurrentCollection", currentCollections: data })
+        dispatch({ type: "actionAddCurrentCollection", currentCollection: data })
       })
   }, [])
   const { currentCollection } = useSelector((store) => store)
   return (
     <div className='container'>
-      <h3>{currentCollection.titlePage}</h3>
-      <div className='hit_wrapper'>
-            {
+      <h3>{currentCollection?.titlePage}</h3>
+      <div className='besseler_wrapper'>
+        {
+          
           currentCollection?.map((el, index) => {
+            
                 return(
-                    
-                        <div className="hit_card" onClick={()=>navigate(`/collection/${el.collection}/${el.id}`)} key={index}>
-                            <img src={el.img} alt="img" className="hit_card_img"/>
-                            <p className='hit_card_title'>{el.title}</p>
+                        <div className="besseler_card" onClick={()=>navigate(`/collection/${el?.collection}/${el?.id}`)} key={index}>
+                            <img src={el.img} alt="img" className="besseler_card_img"/>
+                            <p className='besseler_card_title'>{el.title}</p>
                                 <div className="prices">
-                                    <p className='hit_card_price'>{el.price} p</p>
-                                    <s className='hit_card_discounts'>{el.discounts}</s>
+                                    <p className='besseler_card_price'>{el.price} p</p>
+                                    <s className='besseler_card_discounts'>{el.discounts}</s>
                                 </div>
-                            <p className='hit_card_size'>размер: {el.size}</p>
-                            <div className="hit_card_color_block">
+                            <p className='besseler_card_size'>размер: {el.size}</p>
+                            <div className="besseler_card_color_block">
                             {
                                 el?.colors?.map((el,index) => {
                                     return <button className='circle' style={{ backgroundColor:el}} key={index}></button>
@@ -44,7 +45,6 @@ export default function Besseler() {
                 )
                 })
         }
-              {/* <button className='hit_wrapper_more' onClick={()=>{setHitLimit(prev=>prev+4)}}>Eще</button> */}
         </div>
     </div>
   )

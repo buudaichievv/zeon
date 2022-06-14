@@ -19,6 +19,10 @@ export default function MainPage() {
                 dispatch({type:"actionAddSliderProduct", sliderProducts: data})
                 
             })
+        // axios(`http://localhost:3005/favorite`)
+        //     .then(({ data })=>{
+        //         dispatch({type:"actionFavorite",favorits: data})
+        //     })
          axios(`http://localhost:3005/hit?&_limit=${HitLimit}`)
             .then(({ data }) => {
                 dispatch({type:"actionAddHitProduct", hitProducts: data})
